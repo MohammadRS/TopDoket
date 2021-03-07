@@ -1,0 +1,15 @@
+C:\Users\P\Desktop\Top_Project\TopDoket\TopDoket.Core\bin\Debug\netcoreapp3.1\TopDoket.Core.deps.json
+C:\Users\P\Desktop\Top_Project\TopDoket\TopDoket.Core\bin\Debug\netcoreapp3.1\TopDoket.Core.dll
+C:\Users\P\Desktop\Top_Project\TopDoket\TopDoket.Core\bin\Debug\netcoreapp3.1\TopDoket.Core.pdb
+C:\Users\P\Desktop\Top_Project\TopDoket\TopDoket.Core\bin\Debug\netcoreapp3.1\TopDoket.DataLayer.dll
+C:\Users\P\Desktop\Top_Project\TopDoket\TopDoket.Core\bin\Debug\netcoreapp3.1\TopDoket.DataLayer.pdb
+C:\Users\P\Desktop\Top_Project\TopDoket\TopDoket.Core\obj\Debug\netcoreapp3.1\TopDoket.Core.csprojAssemblyReference.cache
+C:\Users\P\Desktop\Top_Project\TopDoket\TopDoket.Core\obj\Debug\netcoreapp3.1\TopDoket.Core.AssemblyInfoInputs.cache
+C:\Users\P\Desktop\Top_Project\TopDoket\TopDoket.Core\obj\Debug\netcoreapp3.1\TopDoket.Core.AssemblyInfo.cs
+C:\Users\P\Desktop\Top_Project\TopDoket\TopDoket.Core\obj\Debug\netcoreapp3.1\TopDoket.Core.csproj.CoreCompileInputs.cache
+C:\Users\P\Desktop\Top_Project\TopDoket\TopDoket.Core\obj\Debug\netcoreapp3.1\TopDoket.Core.csproj.CopyComplete
+C:\Users\P\Desktop\Top_Project\TopDoket\TopDoket.Core\obj\Debug\netcoreapp3.1\TopDoket.Core.dll
+C:\Users\P\Desktop\Top_Project\TopDoket\TopDoket.Core\obj\Debug\netcoreapp3.1\TopDoket.Core.pdb
+C:\Users\P\Desktop\Top_Project\TopDoket\TopDoket.Core\bin\Debug\netcoreapp3.1\TopDoket.Core.runtimeconfig.json
+C:\Users\P\Desktop\Top_Project\TopDoket\TopDoket.Core\bin\Debug\netcoreapp3.1\TopDoket.Core.runtimeconfig.dev.json
+C:\Users\P\Desktop\Top_Project\TopDoket\TopDoket.Core\obj\Debug\netcoreapp3.1\TopDoket.Core.genruntimeconfig.cache

@@ -1,0 +1,51 @@
+C:\Users\P\Desktop\N_Top_Project\5\Top_Project\TopDoket\TopDoket.Core\obj\Debug\net5.0\TopDoket.Core.csprojAssemblyReference.cache
+C:\Users\P\Desktop\N_Top_Project\5\Top_Project\TopDoket\TopDoket.Core\obj\Debug\net5.0\TopDoket.Core.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\P\Desktop\N_Top_Project\5\Top_Project\TopDoket\TopDoket.Core\obj\Debug\net5.0\TopDoket.Core.AssemblyInfoInputs.cache
+C:\Users\P\Desktop\N_Top_Project\5\Top_Project\TopDoket\TopDoket.Core\obj\Debug\net5.0\TopDoket.Core.AssemblyInfo.cs
+C:\Users\P\Desktop\N_Top_Project\5\Top_Project\TopDoket\TopDoket.Core\obj\Debug\net5.0\TopDoket.Core.csproj.CoreCompileInputs.cache
+C:\Users\P\Desktop\N_Top_Project\5\Top_Project\TopDoket\TopDoket.Core\obj\Debug\net5.0\TopDoket.Core.dll
+C:\Users\P\Desktop\N_Top_Project\5\Top_Project\TopDoket\TopDoket.Core\obj\Debug\net5.0\ref\TopDoket.Core.dll
+C:\Users\P\Desktop\N_Top_Project\5\Top_Project\TopDoket\TopDoket.Core\obj\Debug\net5.0\TopDoket.Core.pdb
+C:\Users\P\Desktop\N_Top_Project\5\Top_Project\TopDoket\TopDoket.Core\bin\Debug\net5.0\TopDoket.Core.deps.json
+C:\Users\P\Desktop\N_Top_Project\5\Top_Project\TopDoket\TopDoket.Core\bin\Debug\net5.0\TopDoket.Core.runtimeconfig.json
+C:\Users\P\Desktop\N_Top_Project\5\Top_Project\TopDoket\TopDoket.Core\bin\Debug\net5.0\TopDoket.Core.runtimeconfig.dev.json
+C:\Users\P\Desktop\N_Top_Project\5\Top_Project\TopDoket\TopDoket.Core\bin\Debug\net5.0\TopDoket.Core.dll
+C:\Users\P\Desktop\N_Top_Project\5\Top_Project\TopDoket\TopDoket.Core\bin\Debug\net5.0\ref\TopDoket.Core.dll
+C:\Users\P\Desktop\N_Top_Project\5\Top_Project\TopDoket\TopDoket.Core\bin\Debug\net5.0\TopDoket.Core.pdb
+C:\Users\P\Desktop\N_Top_Project\5\Top_Project\TopDoket\TopDoket.Core\bin\Debug\net5.0\TopDoket.DataLayer.dll
+C:\Users\P\Desktop\N_Top_Project\5\Top_Project\TopDoket\TopDoket.Core\bin\Debug\net5.0\TopDoket.DataLayer.pdb
+C:\Users\P\Desktop\N_Top_Project\5\Top_Project\TopDoket\TopDoket.Core\obj\Debug\net5.0\TopDoket.Core.csproj.CopyComplete
+C:\Users\P\Desktop\N_Top_Project\5\Top_Project\TopDoket\TopDoket.Core\obj\Debug\net5.0\TopDoket.Core.genruntimeconfig.cache
+E:\Teaching program\.net core پیشرفته\N_Top_Project\13\Top_Project\TopDoket\TopDoket.Core\bin\Debug\net5.0\TopDoket.Core.deps.json
+E:\Teaching program\.net core پیشرفته\N_Top_Project\13\Top_Project\TopDoket\TopDoket.Core\bin\Debug\net5.0\TopDoket.Core.runtimeconfig.json
+E:\Teaching program\.net core پیشرفته\N_Top_Project\13\Top_Project\TopDoket\TopDoket.Core\bin\Debug\net5.0\TopDoket.Core.runtimeconfig.dev.json
+E:\Teaching program\.net core پیشرفته\N_Top_Project\13\Top_Project\TopDoket\TopDoket.Core\bin\Debug\net5.0\TopDoket.Core.dll
+E:\Teaching program\.net core پیشرفته\N_Top_Project\13\Top_Project\TopDoket\TopDoket.Core\bin\Debug\net5.0\ref\TopDoket.Core.dll
+E:\Teaching program\.net core پیشرفته\N_Top_Project\13\Top_Project\TopDoket\TopDoket.Core\bin\Debug\net5.0\TopDoket.Core.pdb
+E:\Teaching program\.net core پیشرفته\N_Top_Project\13\Top_Project\TopDoket\TopDoket.Core\bin\Debug\net5.0\TopDoket.DataLayer.dll
+E:\Teaching program\.net core پیشرفته\N_Top_Project\13\Top_Project\TopDoket\TopDoket.Core\bin\Debug\net5.0\TopDoket.DataLayer.pdb
+E:\Teaching program\.net core پیشرفته\N_Top_Project\13\Top_Project\TopDoket\TopDoket.Core\obj\Debug\net5.0\TopDoket.Core.csprojAssemblyReference.cache
+E:\Teaching program\.net core پیشرفته\N_Top_Project\13\Top_Project\TopDoket\TopDoket.Core\obj\Debug\net5.0\TopDoket.Core.GeneratedMSBuildEditorConfig.editorconfig
+E:\Teaching program\.net core پیشرفته\N_Top_Project\13\Top_Project\TopDoket\TopDoket.Core\obj\Debug\net5.0\TopDoket.Core.AssemblyInfoInputs.cache
+E:\Teaching program\.net core پیشرفته\N_Top_Project\13\Top_Project\TopDoket\TopDoket.Core\obj\Debug\net5.0\TopDoket.Core.AssemblyInfo.cs
+E:\Teaching program\.net core پیشرفته\N_Top_Project\13\Top_Project\TopDoket\TopDoket.Core\obj\Debug\net5.0\TopDoket.Core.csproj.CoreCompileInputs.cache
+E:\Teaching program\.net core پیشرفته\N_Top_Project\13\Top_Project\TopDoket\TopDoket.Core\obj\Debug\net5.0\TopDoket.Core.csproj.CopyComplete
+E:\Teaching program\.net core پیشرفته\N_Top_Project\13\Top_Project\TopDoket\TopDoket.Core\obj\Debug\net5.0\TopDoket.Core.dll
+E:\Teaching program\.net core پیشرفته\N_Top_Project\13\Top_Project\TopDoket\TopDoket.Core\obj\Debug\net5.0\ref\TopDoket.Core.dll
+E:\Teaching program\.net core پیشرفته\N_Top_Project\13\Top_Project\TopDoket\TopDoket.Core\obj\Debug\net5.0\TopDoket.Core.pdb
+E:\Teaching program\.net core پیشرفته\N_Top_Project\13\Top_Project\TopDoket\TopDoket.Core\obj\Debug\net5.0\TopDoket.Core.genruntimeconfig.cache
+C:\Users\P\Desktop\Top_Project\TopDoket\TopDoket.Core\bin\Debug\net5.0\TopDoket.Core.deps.json
+C:\Users\P\Desktop\Top_Project\TopDoket\TopDoket.Core\bin\Debug\net5.0\TopDoket.Core.dll
+C:\Users\P\Desktop\Top_Project\TopDoket\TopDoket.Core\bin\Debug\net5.0\ref\TopDoket.Core.dll
+C:\Users\P\Desktop\Top_Project\TopDoket\TopDoket.Core\bin\Debug\net5.0\TopDoket.Core.pdb
+C:\Users\P\Desktop\Top_Project\TopDoket\TopDoket.Core\bin\Debug\net5.0\TopDoket.DataLayer.dll
+C:\Users\P\Desktop\Top_Project\TopDoket\TopDoket.Core\bin\Debug\net5.0\TopDoket.DataLayer.pdb
+C:\Users\P\Desktop\Top_Project\TopDoket\TopDoket.Core\obj\Debug\net5.0\TopDoket.Core.csprojAssemblyReference.cache
+C:\Users\P\Desktop\Top_Project\TopDoket\TopDoket.Core\obj\Debug\net5.0\TopDoket.Core.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\P\Desktop\Top_Project\TopDoket\TopDoket.Core\obj\Debug\net5.0\TopDoket.Core.AssemblyInfoInputs.cache
+C:\Users\P\Desktop\Top_Project\TopDoket\TopDoket.Core\obj\Debug\net5.0\TopDoket.Core.AssemblyInfo.cs
+C:\Users\P\Desktop\Top_Project\TopDoket\TopDoket.Core\obj\Debug\net5.0\TopDoket.Core.csproj.CoreCompileInputs.cache
+C:\Users\P\Desktop\Top_Project\TopDoket\TopDoket.Core\obj\Debug\net5.0\TopDoket.Core.csproj.CopyComplete
+C:\Users\P\Desktop\Top_Project\TopDoket\TopDoket.Core\obj\Debug\net5.0\TopDoket.Core.dll
+C:\Users\P\Desktop\Top_Project\TopDoket\TopDoket.Core\obj\Debug\net5.0\ref\TopDoket.Core.dll
+C:\Users\P\Desktop\Top_Project\TopDoket\TopDoket.Core\obj\Debug\net5.0\TopDoket.Core.pdb

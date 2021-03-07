@@ -1,0 +1,656 @@
+C:\Users\P\Desktop\N_Top_Project\5\Top_Project\TopDoket\TopDoket.Web\bin\Debug\net5.0\appsettings.Development.json
+C:\Users\P\Desktop\N_Top_Project\5\Top_Project\TopDoket\TopDoket.Web\bin\Debug\net5.0\appsettings.json
+C:\Users\P\Desktop\N_Top_Project\5\Top_Project\TopDoket\TopDoket.Web\bin\Debug\net5.0\TopDoket.Web.exe
+C:\Users\P\Desktop\N_Top_Project\5\Top_Project\TopDoket\TopDoket.Web\bin\Debug\net5.0\TopDoket.Web.deps.json
+C:\Users\P\Desktop\N_Top_Project\5\Top_Project\TopDoket\TopDoket.Web\bin\Debug\net5.0\TopDoket.Web.runtimeconfig.json
+C:\Users\P\Desktop\N_Top_Project\5\Top_Project\TopDoket\TopDoket.Web\bin\Debug\net5.0\TopDoket.Web.runtimeconfig.dev.json
+C:\Users\P\Desktop\N_Top_Project\5\Top_Project\TopDoket\TopDoket.Web\bin\Debug\net5.0\TopDoket.Web.dll
+C:\Users\P\Desktop\N_Top_Project\5\Top_Project\TopDoket\TopDoket.Web\bin\Debug\net5.0\ref\TopDoket.Web.dll
+C:\Users\P\Desktop\N_Top_Project\5\Top_Project\TopDoket\TopDoket.Web\bin\Debug\net5.0\TopDoket.Web.pdb
+C:\Users\P\Desktop\N_Top_Project\5\Top_Project\TopDoket\TopDoket.Web\bin\Debug\net5.0\TopDoket.Web.Views.dll
+C:\Users\P\Desktop\N_Top_Project\5\Top_Project\TopDoket\TopDoket.Web\bin\Debug\net5.0\TopDoket.Web.Views.pdb
+C:\Users\P\Desktop\N_Top_Project\5\Top_Project\TopDoket\TopDoket.Web\bin\Debug\net5.0\Humanizer.dll
+C:\Users\P\Desktop\N_Top_Project\5\Top_Project\TopDoket\TopDoket.Web\bin\Debug\net5.0\Microsoft.AspNetCore.JsonPatch.dll
+C:\Users\P\Desktop\N_Top_Project\5\Top_Project\TopDoket\TopDoket.Web\bin\Debug\net5.0\Microsoft.AspNetCore.Mvc.Razor.Extensions.dll
+C:\Users\P\Desktop\N_Top_Project\5\Top_Project\TopDoket\TopDoket.Web\bin\Debug\net5.0\Microsoft.AspNetCore.Razor.Language.dll
+C:\Users\P\Desktop\N_Top_Project\5\Top_Project\TopDoket\TopDoket.Web\bin\Debug\net5.0\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\P\Desktop\N_Top_Project\5\Top_Project\TopDoket\TopDoket.Web\bin\Debug\net5.0\Microsoft.CodeAnalysis.dll
+C:\Users\P\Desktop\N_Top_Project\5\Top_Project\TopDoket\TopDoket.Web\bin\Debug\net5.0\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\P\Desktop\N_Top_Project\5\Top_Project\TopDoket\TopDoket.Web\bin\Debug\net5.0\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+C:\Users\P\Desktop\N_Top_Project\5\Top_Project\TopDoket\TopDoket.Web\bin\Debug\net5.0\Microsoft.CodeAnalysis.Razor.dll
+C:\Users\P\Desktop\N_Top_Project\5\Top_Project\TopDoket\TopDoket.Web\bin\Debug\net5.0\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\P\Desktop\N_Top_Project\5\Top_Project\TopDoket\TopDoket.Web\bin\Debug\net5.0\Microsoft.CodeAnalysis.Workspaces.dll
+C:\Users\P\Desktop\N_Top_Project\5\Top_Project\TopDoket\TopDoket.Web\bin\Debug\net5.0\Microsoft.Data.SqlClient.dll
+C:\Users\P\Desktop\N_Top_Project\5\Top_Project\TopDoket\TopDoket.Web\bin\Debug\net5.0\Microsoft.DotNet.PlatformAbstractions.dll
+C:\Users\P\Desktop\N_Top_Project\5\Top_Project\TopDoket\TopDoket.Web\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\P\Desktop\N_Top_Project\5\Top_Project\TopDoket\TopDoket.Web\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\P\Desktop\N_Top_Project\5\Top_Project\TopDoket\TopDoket.Web\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\P\Desktop\N_Top_Project\5\Top_Project\TopDoket\TopDoket.Web\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\P\Desktop\N_Top_Project\5\Top_Project\TopDoket\TopDoket.Web\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\P\Desktop\N_Top_Project\5\Top_Project\TopDoket\TopDoket.Web\bin\Debug\net5.0\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\P\Desktop\N_Top_Project\5\Top_Project\TopDoket\TopDoket.Web\bin\Debug\net5.0\Microsoft.Extensions.DependencyModel.dll
+C:\Users\P\Desktop\N_Top_Project\5\Top_Project\TopDoket\TopDoket.Web\bin\Debug\net5.0\Microsoft.Identity.Client.dll
+C:\Users\P\Desktop\N_Top_Project\5\Top_Project\TopDoket\TopDoket.Web\bin\Debug\net5.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\P\Desktop\N_Top_Project\5\Top_Project\TopDoket\TopDoket.Web\bin\Debug\net5.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\P\Desktop\N_Top_Project\5\Top_Project\TopDoket\TopDoket.Web\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.dll
+C:\Users\P\Desktop\N_Top_Project\5\Top_Project\TopDoket\TopDoket.Web\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\P\Desktop\N_Top_Project\5\Top_Project\TopDoket\TopDoket.Web\bin\Debug\net5.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\P\Desktop\N_Top_Project\5\Top_Project\TopDoket\TopDoket.Web\bin\Debug\net5.0\Microsoft.VisualBasic.dll
+C:\Users\P\Desktop\N_Top_Project\5\Top_Project\TopDoket\TopDoket.Web\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.dll
+C:\Users\P\Desktop\N_Top_Project\5\Top_Project\TopDoket\TopDoket.Web\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.Contracts.dll
+C:\Users\P\Desktop\N_Top_Project\5\Top_Project\TopDoket\TopDoket.Web\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.Core.dll
+C:\Users\P\Desktop\N_Top_Project\5\Top_Project\TopDoket\TopDoket.Web\bin\Debug\net5.0\dotnet-aspnet-codegenerator-design.dll
+C:\Users\P\Desktop\N_Top_Project\5\Top_Project\TopDoket\TopDoket.Web\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.EntityFrameworkCore.dll
+C:\Users\P\Desktop\N_Top_Project\5\Top_Project\TopDoket\TopDoket.Web\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.Templating.dll
+C:\Users\P\Desktop\N_Top_Project\5\Top_Project\TopDoket\TopDoket.Web\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.Utils.dll
+C:\Users\P\Desktop\N_Top_Project\5\Top_Project\TopDoket\TopDoket.Web\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGenerators.Mvc.dll
+C:\Users\P\Desktop\N_Top_Project\5\Top_Project\TopDoket\TopDoket.Web\bin\Debug\net5.0\Newtonsoft.Json.dll
+C:\Users\P\Desktop\N_Top_Project\5\Top_Project\TopDoket\TopDoket.Web\bin\Debug\net5.0\Newtonsoft.Json.Bson.dll
+C:\Users\P\Desktop\N_Top_Project\5\Top_Project\TopDoket\TopDoket.Web\bin\Debug\net5.0\Npgsql.dll
+C:\Users\P\Desktop\N_Top_Project\5\Top_Project\TopDoket\TopDoket.Web\bin\Debug\net5.0\Npgsql.EntityFrameworkCore.PostgreSQL.dll
+C:\Users\P\Desktop\N_Top_Project\5\Top_Project\TopDoket\TopDoket.Web\bin\Debug\net5.0\System.Composition.AttributedModel.dll
+C:\Users\P\Desktop\N_Top_Project\5\Top_Project\TopDoket\TopDoket.Web\bin\Debug\net5.0\System.Composition.Convention.dll
+C:\Users\P\Desktop\N_Top_Project\5\Top_Project\TopDoket\TopDoket.Web\bin\Debug\net5.0\System.Composition.Hosting.dll
+C:\Users\P\Desktop\N_Top_Project\5\Top_Project\TopDoket\TopDoket.Web\bin\Debug\net5.0\System.Composition.Runtime.dll
+C:\Users\P\Desktop\N_Top_Project\5\Top_Project\TopDoket\TopDoket.Web\bin\Debug\net5.0\System.Composition.TypedParts.dll
+C:\Users\P\Desktop\N_Top_Project\5\Top_Project\TopDoket\TopDoket.Web\bin\Debug\net5.0\System.Configuration.ConfigurationManager.dll
+C:\Users\P\Desktop\N_Top_Project\5\Top_Project\TopDoket\TopDoket.Web\bin\Debug\net5.0\System.Diagnostics.DiagnosticSource.dll
+C:\Users\P\Desktop\N_Top_Project\5\Top_Project\TopDoket\TopDoket.Web\bin\Debug\net5.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\P\Desktop\N_Top_Project\5\Top_Project\TopDoket\TopDoket.Web\bin\Debug\net5.0\System.Runtime.Caching.dll
+C:\Users\P\Desktop\N_Top_Project\5\Top_Project\TopDoket\TopDoket.Web\bin\Debug\net5.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\P\Desktop\N_Top_Project\5\Top_Project\TopDoket\TopDoket.Web\bin\Debug\net5.0\ZarinpalSandbox.dll
+C:\Users\P\Desktop\N_Top_Project\5\Top_Project\TopDoket\TopDoket.Web\bin\Debug\net5.0\cs\Microsoft.CodeAnalysis.resources.dll
+C:\Users\P\Desktop\N_Top_Project\5\Top_Project\TopDoket\TopDoket.Web\bin\Debug\net5.0\de\Microsoft.CodeAnalysis.resources.dll
+C:\Users\P\Desktop\N_Top_Project\5\Top_Project\TopDoket\TopDoket.Web\bin\Debug\net5.0\es\Microsoft.CodeAnalysis.resources.dll
+C:\Users\P\Desktop\N_Top_Project\5\Top_Project\TopDoket\TopDoket.Web\bin\Debug\net5.0\fr\Microsoft.CodeAnalysis.resources.dll
+C:\Users\P\Desktop\N_Top_Project\5\Top_Project\TopDoket\TopDoket.Web\bin\Debug\net5.0\it\Microsoft.CodeAnalysis.resources.dll
+C:\Users\P\Desktop\N_Top_Project\5\Top_Project\TopDoket\TopDoket.Web\bin\Debug\net5.0\ja\Microsoft.CodeAnalysis.resources.dll
+C:\Users\P\Desktop\N_Top_Project\5\Top_Project\TopDoket\TopDoket.Web\bin\Debug\net5.0\ko\Microsoft.CodeAnalysis.resources.dll
+C:\Users\P\Desktop\N_Top_Project\5\Top_Project\TopDoket\TopDoket.Web\bin\Debug\net5.0\pl\Microsoft.CodeAnalysis.resources.dll
+C:\Users\P\Desktop\N_Top_Project\5\Top_Project\TopDoket\TopDoket.Web\bin\Debug\net5.0\pt-BR\Microsoft.CodeAnalysis.resources.dll
+C:\Users\P\Desktop\N_Top_Project\5\Top_Project\TopDoket\TopDoket.Web\bin\Debug\net5.0\ru\Microsoft.CodeAnalysis.resources.dll
+C:\Users\P\Desktop\N_Top_Project\5\Top_Project\TopDoket\TopDoket.Web\bin\Debug\net5.0\tr\Microsoft.CodeAnalysis.resources.dll
+C:\Users\P\Desktop\N_Top_Project\5\Top_Project\TopDoket\TopDoket.Web\bin\Debug\net5.0\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+C:\Users\P\Desktop\N_Top_Project\5\Top_Project\TopDoket\TopDoket.Web\bin\Debug\net5.0\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+C:\Users\P\Desktop\N_Top_Project\5\Top_Project\TopDoket\TopDoket.Web\bin\Debug\net5.0\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\P\Desktop\N_Top_Project\5\Top_Project\TopDoket\TopDoket.Web\bin\Debug\net5.0\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\P\Desktop\N_Top_Project\5\Top_Project\TopDoket\TopDoket.Web\bin\Debug\net5.0\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\P\Desktop\N_Top_Project\5\Top_Project\TopDoket\TopDoket.Web\bin\Debug\net5.0\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\P\Desktop\N_Top_Project\5\Top_Project\TopDoket\TopDoket.Web\bin\Debug\net5.0\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\P\Desktop\N_Top_Project\5\Top_Project\TopDoket\TopDoket.Web\bin\Debug\net5.0\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\P\Desktop\N_Top_Project\5\Top_Project\TopDoket\TopDoket.Web\bin\Debug\net5.0\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\P\Desktop\N_Top_Project\5\Top_Project\TopDoket\TopDoket.Web\bin\Debug\net5.0\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\P\Desktop\N_Top_Project\5\Top_Project\TopDoket\TopDoket.Web\bin\Debug\net5.0\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\P\Desktop\N_Top_Project\5\Top_Project\TopDoket\TopDoket.Web\bin\Debug\net5.0\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\P\Desktop\N_Top_Project\5\Top_Project\TopDoket\TopDoket.Web\bin\Debug\net5.0\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\P\Desktop\N_Top_Project\5\Top_Project\TopDoket\TopDoket.Web\bin\Debug\net5.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\P\Desktop\N_Top_Project\5\Top_Project\TopDoket\TopDoket.Web\bin\Debug\net5.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\P\Desktop\N_Top_Project\5\Top_Project\TopDoket\TopDoket.Web\bin\Debug\net5.0\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\P\Desktop\N_Top_Project\5\Top_Project\TopDoket\TopDoket.Web\bin\Debug\net5.0\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\P\Desktop\N_Top_Project\5\Top_Project\TopDoket\TopDoket.Web\bin\Debug\net5.0\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\P\Desktop\N_Top_Project\5\Top_Project\TopDoket\TopDoket.Web\bin\Debug\net5.0\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\P\Desktop\N_Top_Project\5\Top_Project\TopDoket\TopDoket.Web\bin\Debug\net5.0\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\P\Desktop\N_Top_Project\5\Top_Project\TopDoket\TopDoket.Web\bin\Debug\net5.0\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\P\Desktop\N_Top_Project\5\Top_Project\TopDoket\TopDoket.Web\bin\Debug\net5.0\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\P\Desktop\N_Top_Project\5\Top_Project\TopDoket\TopDoket.Web\bin\Debug\net5.0\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\P\Desktop\N_Top_Project\5\Top_Project\TopDoket\TopDoket.Web\bin\Debug\net5.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\P\Desktop\N_Top_Project\5\Top_Project\TopDoket\TopDoket.Web\bin\Debug\net5.0\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\P\Desktop\N_Top_Project\5\Top_Project\TopDoket\TopDoket.Web\bin\Debug\net5.0\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\P\Desktop\N_Top_Project\5\Top_Project\TopDoket\TopDoket.Web\bin\Debug\net5.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\P\Desktop\N_Top_Project\5\Top_Project\TopDoket\TopDoket.Web\bin\Debug\net5.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\P\Desktop\N_Top_Project\5\Top_Project\TopDoket\TopDoket.Web\bin\Debug\net5.0\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\P\Desktop\N_Top_Project\5\Top_Project\TopDoket\TopDoket.Web\bin\Debug\net5.0\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\P\Desktop\N_Top_Project\5\Top_Project\TopDoket\TopDoket.Web\bin\Debug\net5.0\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\P\Desktop\N_Top_Project\5\Top_Project\TopDoket\TopDoket.Web\bin\Debug\net5.0\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\P\Desktop\N_Top_Project\5\Top_Project\TopDoket\TopDoket.Web\bin\Debug\net5.0\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\P\Desktop\N_Top_Project\5\Top_Project\TopDoket\TopDoket.Web\bin\Debug\net5.0\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\P\Desktop\N_Top_Project\5\Top_Project\TopDoket\TopDoket.Web\bin\Debug\net5.0\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\P\Desktop\N_Top_Project\5\Top_Project\TopDoket\TopDoket.Web\bin\Debug\net5.0\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\P\Desktop\N_Top_Project\5\Top_Project\TopDoket\TopDoket.Web\bin\Debug\net5.0\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\P\Desktop\N_Top_Project\5\Top_Project\TopDoket\TopDoket.Web\bin\Debug\net5.0\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\P\Desktop\N_Top_Project\5\Top_Project\TopDoket\TopDoket.Web\bin\Debug\net5.0\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\P\Desktop\N_Top_Project\5\Top_Project\TopDoket\TopDoket.Web\bin\Debug\net5.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\P\Desktop\N_Top_Project\5\Top_Project\TopDoket\TopDoket.Web\bin\Debug\net5.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\P\Desktop\N_Top_Project\5\Top_Project\TopDoket\TopDoket.Web\bin\Debug\net5.0\runtimes\debian-x64\native\libuv.so
+C:\Users\P\Desktop\N_Top_Project\5\Top_Project\TopDoket\TopDoket.Web\bin\Debug\net5.0\runtimes\fedora-x64\native\libuv.so
+C:\Users\P\Desktop\N_Top_Project\5\Top_Project\TopDoket\TopDoket.Web\bin\Debug\net5.0\runtimes\opensuse-x64\native\libuv.so
+C:\Users\P\Desktop\N_Top_Project\5\Top_Project\TopDoket\TopDoket.Web\bin\Debug\net5.0\runtimes\osx\native\libuv.dylib
+C:\Users\P\Desktop\N_Top_Project\5\Top_Project\TopDoket\TopDoket.Web\bin\Debug\net5.0\runtimes\rhel-x64\native\libuv.so
+C:\Users\P\Desktop\N_Top_Project\5\Top_Project\TopDoket\TopDoket.Web\bin\Debug\net5.0\runtimes\win7-arm\native\libuv.dll
+C:\Users\P\Desktop\N_Top_Project\5\Top_Project\TopDoket\TopDoket.Web\bin\Debug\net5.0\runtimes\win7-x64\native\libuv.dll
+C:\Users\P\Desktop\N_Top_Project\5\Top_Project\TopDoket\TopDoket.Web\bin\Debug\net5.0\runtimes\win7-x86\native\libuv.dll
+C:\Users\P\Desktop\N_Top_Project\5\Top_Project\TopDoket\TopDoket.Web\bin\Debug\net5.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\P\Desktop\N_Top_Project\5\Top_Project\TopDoket\TopDoket.Web\bin\Debug\net5.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\P\Desktop\N_Top_Project\5\Top_Project\TopDoket\TopDoket.Web\bin\Debug\net5.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\P\Desktop\N_Top_Project\5\Top_Project\TopDoket\TopDoket.Web\bin\Debug\net5.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\P\Desktop\N_Top_Project\5\Top_Project\TopDoket\TopDoket.Web\bin\Debug\net5.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\P\Desktop\N_Top_Project\5\Top_Project\TopDoket\TopDoket.Web\bin\Debug\net5.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\P\Desktop\N_Top_Project\5\Top_Project\TopDoket\TopDoket.Web\bin\Debug\net5.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\P\Desktop\N_Top_Project\5\Top_Project\TopDoket\TopDoket.Web\bin\Debug\net5.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\P\Desktop\N_Top_Project\5\Top_Project\TopDoket\TopDoket.Web\bin\Debug\net5.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\P\Desktop\N_Top_Project\5\Top_Project\TopDoket\TopDoket.Web\bin\Debug\net5.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\P\Desktop\N_Top_Project\5\Top_Project\TopDoket\TopDoket.Web\bin\Debug\net5.0\runtimes\win-arm\lib\net5.0\dotnet-aspnet-codegenerator-design.exe
+C:\Users\P\Desktop\N_Top_Project\5\Top_Project\TopDoket\TopDoket.Web\bin\Debug\net5.0\runtimes\win-arm64\lib\net5.0\dotnet-aspnet-codegenerator-design.exe
+C:\Users\P\Desktop\N_Top_Project\5\Top_Project\TopDoket\TopDoket.Web\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+C:\Users\P\Desktop\N_Top_Project\5\Top_Project\TopDoket\TopDoket.Web\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\P\Desktop\N_Top_Project\5\Top_Project\TopDoket\TopDoket.Web\bin\Debug\net5.0\TopDoket.Core.dll
+C:\Users\P\Desktop\N_Top_Project\5\Top_Project\TopDoket\TopDoket.Web\bin\Debug\net5.0\TopDoket.DataLayer.dll
+C:\Users\P\Desktop\N_Top_Project\5\Top_Project\TopDoket\TopDoket.Web\bin\Debug\net5.0\TopDoket.Core.pdb
+C:\Users\P\Desktop\N_Top_Project\5\Top_Project\TopDoket\TopDoket.Web\bin\Debug\net5.0\TopDoket.DataLayer.pdb
+C:\Users\P\Desktop\N_Top_Project\5\Top_Project\TopDoket\TopDoket.Web\obj\Debug\net5.0\TopDoket.Web.csprojAssemblyReference.cache
+C:\Users\P\Desktop\N_Top_Project\5\Top_Project\TopDoket\TopDoket.Web\obj\Debug\net5.0\TopDoket.Web.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\P\Desktop\N_Top_Project\5\Top_Project\TopDoket\TopDoket.Web\obj\Debug\net5.0\TopDoket.Web.AssemblyInfoInputs.cache
+C:\Users\P\Desktop\N_Top_Project\5\Top_Project\TopDoket\TopDoket.Web\obj\Debug\net5.0\TopDoket.Web.AssemblyInfo.cs
+C:\Users\P\Desktop\N_Top_Project\5\Top_Project\TopDoket\TopDoket.Web\obj\Debug\net5.0\TopDoket.Web.csproj.CoreCompileInputs.cache
+C:\Users\P\Desktop\N_Top_Project\5\Top_Project\TopDoket\TopDoket.Web\obj\Debug\net5.0\TopDoket.Web.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\P\Desktop\N_Top_Project\5\Top_Project\TopDoket\TopDoket.Web\obj\Debug\net5.0\TopDoket.Web.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\P\Desktop\N_Top_Project\5\Top_Project\TopDoket\TopDoket.Web\obj\Debug\net5.0\TopDoket.Web.RazorAssemblyInfo.cache
+C:\Users\P\Desktop\N_Top_Project\5\Top_Project\TopDoket\TopDoket.Web\obj\Debug\net5.0\TopDoket.Web.RazorAssemblyInfo.cs
+C:\Users\P\Desktop\N_Top_Project\5\Top_Project\TopDoket\TopDoket.Web\obj\Debug\net5.0\staticwebassets\TopDoket.Web.StaticWebAssets.Manifest.cache
+C:\Users\P\Desktop\N_Top_Project\5\Top_Project\TopDoket\TopDoket.Web\obj\Debug\net5.0\staticwebassets\TopDoket.Web.StaticWebAssets.xml
+C:\Users\P\Desktop\N_Top_Project\5\Top_Project\TopDoket\TopDoket.Web\obj\Debug\net5.0\scopedcss\bundle\TopDoket.Web.styles.css
+C:\Users\P\Desktop\N_Top_Project\5\Top_Project\TopDoket\TopDoket.Web\obj\Debug\net5.0\TopDoket.Web.TagHelpers.input.cache
+C:\Users\P\Desktop\N_Top_Project\5\Top_Project\TopDoket\TopDoket.Web\obj\Debug\net5.0\TopDoket.Web.TagHelpers.output.cache
+C:\Users\P\Desktop\N_Top_Project\5\Top_Project\TopDoket\TopDoket.Web\obj\Debug\net5.0\TopDoket.Web.RazorCoreGenerate.cache
+C:\Users\P\Desktop\N_Top_Project\5\Top_Project\TopDoket\TopDoket.Web\obj\Debug\net5.0\Razor\Areas\UserPanel\Views\Home\ChangePassword.cshtml.g.cs
+C:\Users\P\Desktop\N_Top_Project\5\Top_Project\TopDoket\TopDoket.Web\obj\Debug\net5.0\Razor\Areas\UserPanel\Views\Home\EditProfile.cshtml.g.cs
+C:\Users\P\Desktop\N_Top_Project\5\Top_Project\TopDoket\TopDoket.Web\obj\Debug\net5.0\Razor\Areas\UserPanel\Views\Home\Index.cshtml.g.cs
+C:\Users\P\Desktop\N_Top_Project\5\Top_Project\TopDoket\TopDoket.Web\obj\Debug\net5.0\Razor\Areas\UserPanel\Views\Shared\_SideBar.cshtml.g.cs
+C:\Users\P\Desktop\N_Top_Project\5\Top_Project\TopDoket\TopDoket.Web\obj\Debug\net5.0\Razor\Areas\UserPanel\Views\Wallet\Index.cshtml.g.cs
+C:\Users\P\Desktop\N_Top_Project\5\Top_Project\TopDoket\TopDoket.Web\obj\Debug\net5.0\Razor\Areas\UserPanel\Views\_ViewImports.cshtml.g.cs
+C:\Users\P\Desktop\N_Top_Project\5\Top_Project\TopDoket\TopDoket.Web\obj\Debug\net5.0\Razor\Areas\UserPanel\Views\_ViewStart.cshtml.g.cs
+C:\Users\P\Desktop\N_Top_Project\5\Top_Project\TopDoket\TopDoket.Web\obj\Debug\net5.0\Razor\Pages\Admin\Index.cshtml.g.cs
+C:\Users\P\Desktop\N_Top_Project\5\Top_Project\TopDoket\TopDoket.Web\obj\Debug\net5.0\Razor\Pages\Admin\Roles\CreateRole.cshtml.g.cs
+C:\Users\P\Desktop\N_Top_Project\5\Top_Project\TopDoket\TopDoket.Web\obj\Debug\net5.0\Razor\Pages\Admin\Roles\DeleteRole.cshtml.g.cs
+C:\Users\P\Desktop\N_Top_Project\5\Top_Project\TopDoket\TopDoket.Web\obj\Debug\net5.0\Razor\Pages\Admin\Roles\EditRole.cshtml.g.cs
+C:\Users\P\Desktop\N_Top_Project\5\Top_Project\TopDoket\TopDoket.Web\obj\Debug\net5.0\Razor\Pages\Admin\Roles\Index.cshtml.g.cs
+C:\Users\P\Desktop\N_Top_Project\5\Top_Project\TopDoket\TopDoket.Web\obj\Debug\net5.0\Razor\Pages\Admin\Users\ActivateUser.cshtml.g.cs
+C:\Users\P\Desktop\N_Top_Project\5\Top_Project\TopDoket\TopDoket.Web\obj\Debug\net5.0\Razor\Pages\Admin\Users\CreateUser.cshtml.g.cs
+C:\Users\P\Desktop\N_Top_Project\5\Top_Project\TopDoket\TopDoket.Web\obj\Debug\net5.0\Razor\Pages\Admin\Users\DeleteUser.cshtml.g.cs
+C:\Users\P\Desktop\N_Top_Project\5\Top_Project\TopDoket\TopDoket.Web\obj\Debug\net5.0\Razor\Pages\Admin\Users\EditUser.cshtml.g.cs
+C:\Users\P\Desktop\N_Top_Project\5\Top_Project\TopDoket\TopDoket.Web\obj\Debug\net5.0\Razor\Pages\Admin\Users\Index.cshtml.g.cs
+C:\Users\P\Desktop\N_Top_Project\5\Top_Project\TopDoket\TopDoket.Web\obj\Debug\net5.0\Razor\Pages\Admin\Users\ListDeleteUsers.cshtml.g.cs
+C:\Users\P\Desktop\N_Top_Project\5\Top_Project\TopDoket\TopDoket.Web\obj\Debug\net5.0\Razor\Pages\Shared\_AdminLayout.cshtml.g.cs
+C:\Users\P\Desktop\N_Top_Project\5\Top_Project\TopDoket\TopDoket.Web\obj\Debug\net5.0\Razor\Pages\_ViewImports.cshtml.g.cs
+C:\Users\P\Desktop\N_Top_Project\5\Top_Project\TopDoket\TopDoket.Web\obj\Debug\net5.0\Razor\Pages\_ViewStart.cshtml.g.cs
+C:\Users\P\Desktop\N_Top_Project\5\Top_Project\TopDoket\TopDoket.Web\obj\Debug\net5.0\Razor\Views\Account\ActiveAccount.cshtml.g.cs
+C:\Users\P\Desktop\N_Top_Project\5\Top_Project\TopDoket\TopDoket.Web\obj\Debug\net5.0\Razor\Views\Account\ForgotPassword.cshtml.g.cs
+C:\Users\P\Desktop\N_Top_Project\5\Top_Project\TopDoket\TopDoket.Web\obj\Debug\net5.0\Razor\Views\Account\Login.cshtml.g.cs
+C:\Users\P\Desktop\N_Top_Project\5\Top_Project\TopDoket\TopDoket.Web\obj\Debug\net5.0\Razor\Views\Account\Register.cshtml.g.cs
+C:\Users\P\Desktop\N_Top_Project\5\Top_Project\TopDoket\TopDoket.Web\obj\Debug\net5.0\Razor\Views\Account\ResetPassword.cshtml.g.cs
+C:\Users\P\Desktop\N_Top_Project\5\Top_Project\TopDoket\TopDoket.Web\obj\Debug\net5.0\Razor\Views\Account\SuccessRegister.cshtml.g.cs
+C:\Users\P\Desktop\N_Top_Project\5\Top_Project\TopDoket\TopDoket.Web\obj\Debug\net5.0\Razor\Views\Home\Index.cshtml.g.cs
+C:\Users\P\Desktop\N_Top_Project\5\Top_Project\TopDoket\TopDoket.Web\obj\Debug\net5.0\Razor\Views\Home\onlinePayment.cshtml.g.cs
+C:\Users\P\Desktop\N_Top_Project\5\Top_Project\TopDoket\TopDoket.Web\obj\Debug\net5.0\Razor\Views\Shared\Components\CourseGroupComponent\CourseGroup.cshtml.g.cs
+C:\Users\P\Desktop\N_Top_Project\5\Top_Project\TopDoket\TopDoket.Web\obj\Debug\net5.0\Razor\Views\Shared\_ActiveEmail.cshtml.g.cs
+C:\Users\P\Desktop\N_Top_Project\5\Top_Project\TopDoket\TopDoket.Web\obj\Debug\net5.0\Razor\Views\Shared\_Footer.cshtml.g.cs
+C:\Users\P\Desktop\N_Top_Project\5\Top_Project\TopDoket\TopDoket.Web\obj\Debug\net5.0\Razor\Views\Shared\_ForgotPassword.cshtml.g.cs
+C:\Users\P\Desktop\N_Top_Project\5\Top_Project\TopDoket\TopDoket.Web\obj\Debug\net5.0\Razor\Views\Shared\_Layout.cshtml.g.cs
+C:\Users\P\Desktop\N_Top_Project\5\Top_Project\TopDoket\TopDoket.Web\obj\Debug\net5.0\Razor\Views\Shared\_MetaTags.cshtml.g.cs
+C:\Users\P\Desktop\N_Top_Project\5\Top_Project\TopDoket\TopDoket.Web\obj\Debug\net5.0\Razor\Views\Shared\_Styles.cshtml.g.cs
+C:\Users\P\Desktop\N_Top_Project\5\Top_Project\TopDoket\TopDoket.Web\obj\Debug\net5.0\Razor\Views\Shared\_ValidationScriptsPartial.cshtml.g.cs
+C:\Users\P\Desktop\N_Top_Project\5\Top_Project\TopDoket\TopDoket.Web\obj\Debug\net5.0\Razor\Views\_ViewImports.cshtml.g.cs
+C:\Users\P\Desktop\N_Top_Project\5\Top_Project\TopDoket\TopDoket.Web\obj\Debug\net5.0\Razor\Views\_ViewStart.cshtml.g.cs
+C:\Users\P\Desktop\N_Top_Project\5\Top_Project\TopDoket\TopDoket.Web\obj\Debug\net5.0\TopDoket.Web.RazorTargetAssemblyInfo.cache
+C:\Users\P\Desktop\N_Top_Project\5\Top_Project\TopDoket\TopDoket.Web\obj\Debug\net5.0\TopDoket.Web.RazorTargetAssemblyInfo.cs
+C:\Users\P\Desktop\N_Top_Project\5\Top_Project\TopDoket\TopDoket.Web\obj\Debug\net5.0\TopDoket.Web.Views.pdb
+C:\Users\P\Desktop\N_Top_Project\5\Top_Project\TopDoket\TopDoket.Web\obj\Debug\net5.0\TopDoket.Web.csproj.CopyComplete
+C:\Users\P\Desktop\N_Top_Project\5\Top_Project\TopDoket\TopDoket.Web\obj\Debug\net5.0\TopDoket.Web.dll
+C:\Users\P\Desktop\N_Top_Project\5\Top_Project\TopDoket\TopDoket.Web\obj\Debug\net5.0\ref\TopDoket.Web.dll
+C:\Users\P\Desktop\N_Top_Project\5\Top_Project\TopDoket\TopDoket.Web\obj\Debug\net5.0\TopDoket.Web.pdb
+C:\Users\P\Desktop\N_Top_Project\5\Top_Project\TopDoket\TopDoket.Web\obj\Debug\net5.0\TopDoket.Web.genruntimeconfig.cache
+E:\Teaching program\.net core پیشرفته\N_Top_Project\13\Top_Project\TopDoket\TopDoket.Web\bin\Debug\net5.0\web.config
+E:\Teaching program\.net core پیشرفته\N_Top_Project\13\Top_Project\TopDoket\TopDoket.Web\bin\Debug\net5.0\appsettings.Development.json
+E:\Teaching program\.net core پیشرفته\N_Top_Project\13\Top_Project\TopDoket\TopDoket.Web\bin\Debug\net5.0\appsettings.json
+E:\Teaching program\.net core پیشرفته\N_Top_Project\13\Top_Project\TopDoket\TopDoket.Web\bin\Debug\net5.0\TopDoket.Web.exe
+E:\Teaching program\.net core پیشرفته\N_Top_Project\13\Top_Project\TopDoket\TopDoket.Web\bin\Debug\net5.0\TopDoket.Web.deps.json
+E:\Teaching program\.net core پیشرفته\N_Top_Project\13\Top_Project\TopDoket\TopDoket.Web\bin\Debug\net5.0\TopDoket.Web.runtimeconfig.json
+E:\Teaching program\.net core پیشرفته\N_Top_Project\13\Top_Project\TopDoket\TopDoket.Web\bin\Debug\net5.0\TopDoket.Web.runtimeconfig.dev.json
+E:\Teaching program\.net core پیشرفته\N_Top_Project\13\Top_Project\TopDoket\TopDoket.Web\bin\Debug\net5.0\TopDoket.Web.dll
+E:\Teaching program\.net core پیشرفته\N_Top_Project\13\Top_Project\TopDoket\TopDoket.Web\bin\Debug\net5.0\ref\TopDoket.Web.dll
+E:\Teaching program\.net core پیشرفته\N_Top_Project\13\Top_Project\TopDoket\TopDoket.Web\bin\Debug\net5.0\TopDoket.Web.pdb
+E:\Teaching program\.net core پیشرفته\N_Top_Project\13\Top_Project\TopDoket\TopDoket.Web\bin\Debug\net5.0\TopDoket.Web.Views.dll
+E:\Teaching program\.net core پیشرفته\N_Top_Project\13\Top_Project\TopDoket\TopDoket.Web\bin\Debug\net5.0\TopDoket.Web.Views.pdb
+E:\Teaching program\.net core پیشرفته\N_Top_Project\13\Top_Project\TopDoket\TopDoket.Web\bin\Debug\net5.0\CoreCompat.System.Drawing.dll
+E:\Teaching program\.net core پیشرفته\N_Top_Project\13\Top_Project\TopDoket\TopDoket.Web\bin\Debug\net5.0\Humanizer.dll
+E:\Teaching program\.net core پیشرفته\N_Top_Project\13\Top_Project\TopDoket\TopDoket.Web\bin\Debug\net5.0\Microsoft.AspNetCore.JsonPatch.dll
+E:\Teaching program\.net core پیشرفته\N_Top_Project\13\Top_Project\TopDoket\TopDoket.Web\bin\Debug\net5.0\Microsoft.AspNetCore.Mvc.Razor.Extensions.dll
+E:\Teaching program\.net core پیشرفته\N_Top_Project\13\Top_Project\TopDoket\TopDoket.Web\bin\Debug\net5.0\Microsoft.AspNetCore.Razor.Language.dll
+E:\Teaching program\.net core پیشرفته\N_Top_Project\13\Top_Project\TopDoket\TopDoket.Web\bin\Debug\net5.0\Microsoft.Bcl.AsyncInterfaces.dll
+E:\Teaching program\.net core پیشرفته\N_Top_Project\13\Top_Project\TopDoket\TopDoket.Web\bin\Debug\net5.0\Microsoft.CodeAnalysis.dll
+E:\Teaching program\.net core پیشرفته\N_Top_Project\13\Top_Project\TopDoket\TopDoket.Web\bin\Debug\net5.0\Microsoft.CodeAnalysis.CSharp.dll
+E:\Teaching program\.net core پیشرفته\N_Top_Project\13\Top_Project\TopDoket\TopDoket.Web\bin\Debug\net5.0\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+E:\Teaching program\.net core پیشرفته\N_Top_Project\13\Top_Project\TopDoket\TopDoket.Web\bin\Debug\net5.0\Microsoft.CodeAnalysis.Razor.dll
+E:\Teaching program\.net core پیشرفته\N_Top_Project\13\Top_Project\TopDoket\TopDoket.Web\bin\Debug\net5.0\Microsoft.CodeAnalysis.VisualBasic.dll
+E:\Teaching program\.net core پیشرفته\N_Top_Project\13\Top_Project\TopDoket\TopDoket.Web\bin\Debug\net5.0\Microsoft.CodeAnalysis.Workspaces.dll
+E:\Teaching program\.net core پیشرفته\N_Top_Project\13\Top_Project\TopDoket\TopDoket.Web\bin\Debug\net5.0\Microsoft.Data.SqlClient.dll
+E:\Teaching program\.net core پیشرفته\N_Top_Project\13\Top_Project\TopDoket\TopDoket.Web\bin\Debug\net5.0\Microsoft.DotNet.PlatformAbstractions.dll
+E:\Teaching program\.net core پیشرفته\N_Top_Project\13\Top_Project\TopDoket\TopDoket.Web\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.dll
+E:\Teaching program\.net core پیشرفته\N_Top_Project\13\Top_Project\TopDoket\TopDoket.Web\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+E:\Teaching program\.net core پیشرفته\N_Top_Project\13\Top_Project\TopDoket\TopDoket.Web\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Design.dll
+E:\Teaching program\.net core پیشرفته\N_Top_Project\13\Top_Project\TopDoket\TopDoket.Web\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Relational.dll
+E:\Teaching program\.net core پیشرفته\N_Top_Project\13\Top_Project\TopDoket\TopDoket.Web\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+E:\Teaching program\.net core پیشرفته\N_Top_Project\13\Top_Project\TopDoket\TopDoket.Web\bin\Debug\net5.0\Microsoft.Extensions.DependencyInjection.dll
+E:\Teaching program\.net core پیشرفته\N_Top_Project\13\Top_Project\TopDoket\TopDoket.Web\bin\Debug\net5.0\Microsoft.Extensions.DependencyModel.dll
+E:\Teaching program\.net core پیشرفته\N_Top_Project\13\Top_Project\TopDoket\TopDoket.Web\bin\Debug\net5.0\Microsoft.Identity.Client.dll
+E:\Teaching program\.net core پیشرفته\N_Top_Project\13\Top_Project\TopDoket\TopDoket.Web\bin\Debug\net5.0\Microsoft.IdentityModel.JsonWebTokens.dll
+E:\Teaching program\.net core پیشرفته\N_Top_Project\13\Top_Project\TopDoket\TopDoket.Web\bin\Debug\net5.0\Microsoft.IdentityModel.Logging.dll
+E:\Teaching program\.net core پیشرفته\N_Top_Project\13\Top_Project\TopDoket\TopDoket.Web\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.dll
+E:\Teaching program\.net core پیشرفته\N_Top_Project\13\Top_Project\TopDoket\TopDoket.Web\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+E:\Teaching program\.net core پیشرفته\N_Top_Project\13\Top_Project\TopDoket\TopDoket.Web\bin\Debug\net5.0\Microsoft.IdentityModel.Tokens.dll
+E:\Teaching program\.net core پیشرفته\N_Top_Project\13\Top_Project\TopDoket\TopDoket.Web\bin\Debug\net5.0\Microsoft.VisualBasic.dll
+E:\Teaching program\.net core پیشرفته\N_Top_Project\13\Top_Project\TopDoket\TopDoket.Web\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.dll
+E:\Teaching program\.net core پیشرفته\N_Top_Project\13\Top_Project\TopDoket\TopDoket.Web\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.Contracts.dll
+E:\Teaching program\.net core پیشرفته\N_Top_Project\13\Top_Project\TopDoket\TopDoket.Web\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.Core.dll
+E:\Teaching program\.net core پیشرفته\N_Top_Project\13\Top_Project\TopDoket\TopDoket.Web\bin\Debug\net5.0\dotnet-aspnet-codegenerator-design.dll
+E:\Teaching program\.net core پیشرفته\N_Top_Project\13\Top_Project\TopDoket\TopDoket.Web\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.EntityFrameworkCore.dll
+E:\Teaching program\.net core پیشرفته\N_Top_Project\13\Top_Project\TopDoket\TopDoket.Web\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.Templating.dll
+E:\Teaching program\.net core پیشرفته\N_Top_Project\13\Top_Project\TopDoket\TopDoket.Web\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.Utils.dll
+E:\Teaching program\.net core پیشرفته\N_Top_Project\13\Top_Project\TopDoket\TopDoket.Web\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGenerators.Mvc.dll
+E:\Teaching program\.net core پیشرفته\N_Top_Project\13\Top_Project\TopDoket\TopDoket.Web\bin\Debug\net5.0\Newtonsoft.Json.dll
+E:\Teaching program\.net core پیشرفته\N_Top_Project\13\Top_Project\TopDoket\TopDoket.Web\bin\Debug\net5.0\Newtonsoft.Json.Bson.dll
+E:\Teaching program\.net core پیشرفته\N_Top_Project\13\Top_Project\TopDoket\TopDoket.Web\bin\Debug\net5.0\Npgsql.dll
+E:\Teaching program\.net core پیشرفته\N_Top_Project\13\Top_Project\TopDoket\TopDoket.Web\bin\Debug\net5.0\Npgsql.EntityFrameworkCore.PostgreSQL.dll
+E:\Teaching program\.net core پیشرفته\N_Top_Project\13\Top_Project\TopDoket\TopDoket.Web\bin\Debug\net5.0\System.Composition.AttributedModel.dll
+E:\Teaching program\.net core پیشرفته\N_Top_Project\13\Top_Project\TopDoket\TopDoket.Web\bin\Debug\net5.0\System.Composition.Convention.dll
+E:\Teaching program\.net core پیشرفته\N_Top_Project\13\Top_Project\TopDoket\TopDoket.Web\bin\Debug\net5.0\System.Composition.Hosting.dll
+E:\Teaching program\.net core پیشرفته\N_Top_Project\13\Top_Project\TopDoket\TopDoket.Web\bin\Debug\net5.0\System.Composition.Runtime.dll
+E:\Teaching program\.net core پیشرفته\N_Top_Project\13\Top_Project\TopDoket\TopDoket.Web\bin\Debug\net5.0\System.Composition.TypedParts.dll
+E:\Teaching program\.net core پیشرفته\N_Top_Project\13\Top_Project\TopDoket\TopDoket.Web\bin\Debug\net5.0\System.Configuration.ConfigurationManager.dll
+E:\Teaching program\.net core پیشرفته\N_Top_Project\13\Top_Project\TopDoket\TopDoket.Web\bin\Debug\net5.0\System.Diagnostics.DiagnosticSource.dll
+E:\Teaching program\.net core پیشرفته\N_Top_Project\13\Top_Project\TopDoket\TopDoket.Web\bin\Debug\net5.0\System.IdentityModel.Tokens.Jwt.dll
+E:\Teaching program\.net core پیشرفته\N_Top_Project\13\Top_Project\TopDoket\TopDoket.Web\bin\Debug\net5.0\System.Runtime.Caching.dll
+E:\Teaching program\.net core پیشرفته\N_Top_Project\13\Top_Project\TopDoket\TopDoket.Web\bin\Debug\net5.0\System.Security.Cryptography.ProtectedData.dll
+E:\Teaching program\.net core پیشرفته\N_Top_Project\13\Top_Project\TopDoket\TopDoket.Web\bin\Debug\net5.0\ZarinpalSandbox.dll
+E:\Teaching program\.net core پیشرفته\N_Top_Project\13\Top_Project\TopDoket\TopDoket.Web\bin\Debug\net5.0\cs\Microsoft.CodeAnalysis.resources.dll
+E:\Teaching program\.net core پیشرفته\N_Top_Project\13\Top_Project\TopDoket\TopDoket.Web\bin\Debug\net5.0\de\Microsoft.CodeAnalysis.resources.dll
+E:\Teaching program\.net core پیشرفته\N_Top_Project\13\Top_Project\TopDoket\TopDoket.Web\bin\Debug\net5.0\es\Microsoft.CodeAnalysis.resources.dll
+E:\Teaching program\.net core پیشرفته\N_Top_Project\13\Top_Project\TopDoket\TopDoket.Web\bin\Debug\net5.0\fr\Microsoft.CodeAnalysis.resources.dll
+E:\Teaching program\.net core پیشرفته\N_Top_Project\13\Top_Project\TopDoket\TopDoket.Web\bin\Debug\net5.0\it\Microsoft.CodeAnalysis.resources.dll
+E:\Teaching program\.net core پیشرفته\N_Top_Project\13\Top_Project\TopDoket\TopDoket.Web\bin\Debug\net5.0\ja\Microsoft.CodeAnalysis.resources.dll
+E:\Teaching program\.net core پیشرفته\N_Top_Project\13\Top_Project\TopDoket\TopDoket.Web\bin\Debug\net5.0\ko\Microsoft.CodeAnalysis.resources.dll
+E:\Teaching program\.net core پیشرفته\N_Top_Project\13\Top_Project\TopDoket\TopDoket.Web\bin\Debug\net5.0\pl\Microsoft.CodeAnalysis.resources.dll
+E:\Teaching program\.net core پیشرفته\N_Top_Project\13\Top_Project\TopDoket\TopDoket.Web\bin\Debug\net5.0\pt-BR\Microsoft.CodeAnalysis.resources.dll
+E:\Teaching program\.net core پیشرفته\N_Top_Project\13\Top_Project\TopDoket\TopDoket.Web\bin\Debug\net5.0\ru\Microsoft.CodeAnalysis.resources.dll
+E:\Teaching program\.net core پیشرفته\N_Top_Project\13\Top_Project\TopDoket\TopDoket.Web\bin\Debug\net5.0\tr\Microsoft.CodeAnalysis.resources.dll
+E:\Teaching program\.net core پیشرفته\N_Top_Project\13\Top_Project\TopDoket\TopDoket.Web\bin\Debug\net5.0\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+E:\Teaching program\.net core پیشرفته\N_Top_Project\13\Top_Project\TopDoket\TopDoket.Web\bin\Debug\net5.0\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+E:\Teaching program\.net core پیشرفته\N_Top_Project\13\Top_Project\TopDoket\TopDoket.Web\bin\Debug\net5.0\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\Teaching program\.net core پیشرفته\N_Top_Project\13\Top_Project\TopDoket\TopDoket.Web\bin\Debug\net5.0\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\Teaching program\.net core پیشرفته\N_Top_Project\13\Top_Project\TopDoket\TopDoket.Web\bin\Debug\net5.0\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\Teaching program\.net core پیشرفته\N_Top_Project\13\Top_Project\TopDoket\TopDoket.Web\bin\Debug\net5.0\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\Teaching program\.net core پیشرفته\N_Top_Project\13\Top_Project\TopDoket\TopDoket.Web\bin\Debug\net5.0\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\Teaching program\.net core پیشرفته\N_Top_Project\13\Top_Project\TopDoket\TopDoket.Web\bin\Debug\net5.0\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\Teaching program\.net core پیشرفته\N_Top_Project\13\Top_Project\TopDoket\TopDoket.Web\bin\Debug\net5.0\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\Teaching program\.net core پیشرفته\N_Top_Project\13\Top_Project\TopDoket\TopDoket.Web\bin\Debug\net5.0\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\Teaching program\.net core پیشرفته\N_Top_Project\13\Top_Project\TopDoket\TopDoket.Web\bin\Debug\net5.0\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\Teaching program\.net core پیشرفته\N_Top_Project\13\Top_Project\TopDoket\TopDoket.Web\bin\Debug\net5.0\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\Teaching program\.net core پیشرفته\N_Top_Project\13\Top_Project\TopDoket\TopDoket.Web\bin\Debug\net5.0\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\Teaching program\.net core پیشرفته\N_Top_Project\13\Top_Project\TopDoket\TopDoket.Web\bin\Debug\net5.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\Teaching program\.net core پیشرفته\N_Top_Project\13\Top_Project\TopDoket\TopDoket.Web\bin\Debug\net5.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\Teaching program\.net core پیشرفته\N_Top_Project\13\Top_Project\TopDoket\TopDoket.Web\bin\Debug\net5.0\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\Teaching program\.net core پیشرفته\N_Top_Project\13\Top_Project\TopDoket\TopDoket.Web\bin\Debug\net5.0\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\Teaching program\.net core پیشرفته\N_Top_Project\13\Top_Project\TopDoket\TopDoket.Web\bin\Debug\net5.0\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\Teaching program\.net core پیشرفته\N_Top_Project\13\Top_Project\TopDoket\TopDoket.Web\bin\Debug\net5.0\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\Teaching program\.net core پیشرفته\N_Top_Project\13\Top_Project\TopDoket\TopDoket.Web\bin\Debug\net5.0\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\Teaching program\.net core پیشرفته\N_Top_Project\13\Top_Project\TopDoket\TopDoket.Web\bin\Debug\net5.0\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\Teaching program\.net core پیشرفته\N_Top_Project\13\Top_Project\TopDoket\TopDoket.Web\bin\Debug\net5.0\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\Teaching program\.net core پیشرفته\N_Top_Project\13\Top_Project\TopDoket\TopDoket.Web\bin\Debug\net5.0\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\Teaching program\.net core پیشرفته\N_Top_Project\13\Top_Project\TopDoket\TopDoket.Web\bin\Debug\net5.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\Teaching program\.net core پیشرفته\N_Top_Project\13\Top_Project\TopDoket\TopDoket.Web\bin\Debug\net5.0\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\Teaching program\.net core پیشرفته\N_Top_Project\13\Top_Project\TopDoket\TopDoket.Web\bin\Debug\net5.0\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\Teaching program\.net core پیشرفته\N_Top_Project\13\Top_Project\TopDoket\TopDoket.Web\bin\Debug\net5.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\Teaching program\.net core پیشرفته\N_Top_Project\13\Top_Project\TopDoket\TopDoket.Web\bin\Debug\net5.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\Teaching program\.net core پیشرفته\N_Top_Project\13\Top_Project\TopDoket\TopDoket.Web\bin\Debug\net5.0\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\Teaching program\.net core پیشرفته\N_Top_Project\13\Top_Project\TopDoket\TopDoket.Web\bin\Debug\net5.0\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\Teaching program\.net core پیشرفته\N_Top_Project\13\Top_Project\TopDoket\TopDoket.Web\bin\Debug\net5.0\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\Teaching program\.net core پیشرفته\N_Top_Project\13\Top_Project\TopDoket\TopDoket.Web\bin\Debug\net5.0\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\Teaching program\.net core پیشرفته\N_Top_Project\13\Top_Project\TopDoket\TopDoket.Web\bin\Debug\net5.0\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\Teaching program\.net core پیشرفته\N_Top_Project\13\Top_Project\TopDoket\TopDoket.Web\bin\Debug\net5.0\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\Teaching program\.net core پیشرفته\N_Top_Project\13\Top_Project\TopDoket\TopDoket.Web\bin\Debug\net5.0\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\Teaching program\.net core پیشرفته\N_Top_Project\13\Top_Project\TopDoket\TopDoket.Web\bin\Debug\net5.0\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\Teaching program\.net core پیشرفته\N_Top_Project\13\Top_Project\TopDoket\TopDoket.Web\bin\Debug\net5.0\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\Teaching program\.net core پیشرفته\N_Top_Project\13\Top_Project\TopDoket\TopDoket.Web\bin\Debug\net5.0\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\Teaching program\.net core پیشرفته\N_Top_Project\13\Top_Project\TopDoket\TopDoket.Web\bin\Debug\net5.0\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\Teaching program\.net core پیشرفته\N_Top_Project\13\Top_Project\TopDoket\TopDoket.Web\bin\Debug\net5.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\Teaching program\.net core پیشرفته\N_Top_Project\13\Top_Project\TopDoket\TopDoket.Web\bin\Debug\net5.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\Teaching program\.net core پیشرفته\N_Top_Project\13\Top_Project\TopDoket\TopDoket.Web\bin\Debug\net5.0\runtimes\debian-x64\native\libuv.so
+E:\Teaching program\.net core پیشرفته\N_Top_Project\13\Top_Project\TopDoket\TopDoket.Web\bin\Debug\net5.0\runtimes\fedora-x64\native\libuv.so
+E:\Teaching program\.net core پیشرفته\N_Top_Project\13\Top_Project\TopDoket\TopDoket.Web\bin\Debug\net5.0\runtimes\opensuse-x64\native\libuv.so
+E:\Teaching program\.net core پیشرفته\N_Top_Project\13\Top_Project\TopDoket\TopDoket.Web\bin\Debug\net5.0\runtimes\osx\native\libuv.dylib
+E:\Teaching program\.net core پیشرفته\N_Top_Project\13\Top_Project\TopDoket\TopDoket.Web\bin\Debug\net5.0\runtimes\rhel-x64\native\libuv.so
+E:\Teaching program\.net core پیشرفته\N_Top_Project\13\Top_Project\TopDoket\TopDoket.Web\bin\Debug\net5.0\runtimes\win7-arm\native\libuv.dll
+E:\Teaching program\.net core پیشرفته\N_Top_Project\13\Top_Project\TopDoket\TopDoket.Web\bin\Debug\net5.0\runtimes\win7-x64\native\libuv.dll
+E:\Teaching program\.net core پیشرفته\N_Top_Project\13\Top_Project\TopDoket\TopDoket.Web\bin\Debug\net5.0\runtimes\win7-x86\native\libuv.dll
+E:\Teaching program\.net core پیشرفته\N_Top_Project\13\Top_Project\TopDoket\TopDoket.Web\bin\Debug\net5.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+E:\Teaching program\.net core پیشرفته\N_Top_Project\13\Top_Project\TopDoket\TopDoket.Web\bin\Debug\net5.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+E:\Teaching program\.net core پیشرفته\N_Top_Project\13\Top_Project\TopDoket\TopDoket.Web\bin\Debug\net5.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+E:\Teaching program\.net core پیشرفته\N_Top_Project\13\Top_Project\TopDoket\TopDoket.Web\bin\Debug\net5.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.pdb
+E:\Teaching program\.net core پیشرفته\N_Top_Project\13\Top_Project\TopDoket\TopDoket.Web\bin\Debug\net5.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+E:\Teaching program\.net core پیشرفته\N_Top_Project\13\Top_Project\TopDoket\TopDoket.Web\bin\Debug\net5.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.pdb
+E:\Teaching program\.net core پیشرفته\N_Top_Project\13\Top_Project\TopDoket\TopDoket.Web\bin\Debug\net5.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+E:\Teaching program\.net core پیشرفته\N_Top_Project\13\Top_Project\TopDoket\TopDoket.Web\bin\Debug\net5.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.pdb
+E:\Teaching program\.net core پیشرفته\N_Top_Project\13\Top_Project\TopDoket\TopDoket.Web\bin\Debug\net5.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+E:\Teaching program\.net core پیشرفته\N_Top_Project\13\Top_Project\TopDoket\TopDoket.Web\bin\Debug\net5.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.pdb
+E:\Teaching program\.net core پیشرفته\N_Top_Project\13\Top_Project\TopDoket\TopDoket.Web\bin\Debug\net5.0\runtimes\win-arm\lib\net5.0\dotnet-aspnet-codegenerator-design.exe
+E:\Teaching program\.net core پیشرفته\N_Top_Project\13\Top_Project\TopDoket\TopDoket.Web\bin\Debug\net5.0\runtimes\win-arm64\lib\net5.0\dotnet-aspnet-codegenerator-design.exe
+E:\Teaching program\.net core پیشرفته\N_Top_Project\13\Top_Project\TopDoket\TopDoket.Web\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+E:\Teaching program\.net core پیشرفته\N_Top_Project\13\Top_Project\TopDoket\TopDoket.Web\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+E:\Teaching program\.net core پیشرفته\N_Top_Project\13\Top_Project\TopDoket\TopDoket.Web\bin\Debug\net5.0\TopDoket.Core.dll
+E:\Teaching program\.net core پیشرفته\N_Top_Project\13\Top_Project\TopDoket\TopDoket.Web\bin\Debug\net5.0\TopDoket.DataLayer.dll
+E:\Teaching program\.net core پیشرفته\N_Top_Project\13\Top_Project\TopDoket\TopDoket.Web\bin\Debug\net5.0\TopDoket.Core.pdb
+E:\Teaching program\.net core پیشرفته\N_Top_Project\13\Top_Project\TopDoket\TopDoket.Web\bin\Debug\net5.0\TopDoket.DataLayer.pdb
+E:\Teaching program\.net core پیشرفته\N_Top_Project\13\Top_Project\TopDoket\TopDoket.Web\obj\Debug\net5.0\TopDoket.Web.csprojAssemblyReference.cache
+E:\Teaching program\.net core پیشرفته\N_Top_Project\13\Top_Project\TopDoket\TopDoket.Web\obj\Debug\net5.0\TopDoket.Web.GeneratedMSBuildEditorConfig.editorconfig
+E:\Teaching program\.net core پیشرفته\N_Top_Project\13\Top_Project\TopDoket\TopDoket.Web\obj\Debug\net5.0\TopDoket.Web.AssemblyInfoInputs.cache
+E:\Teaching program\.net core پیشرفته\N_Top_Project\13\Top_Project\TopDoket\TopDoket.Web\obj\Debug\net5.0\TopDoket.Web.AssemblyInfo.cs
+E:\Teaching program\.net core پیشرفته\N_Top_Project\13\Top_Project\TopDoket\TopDoket.Web\obj\Debug\net5.0\TopDoket.Web.csproj.CoreCompileInputs.cache
+E:\Teaching program\.net core پیشرفته\N_Top_Project\13\Top_Project\TopDoket\TopDoket.Web\obj\Debug\net5.0\TopDoket.Web.MvcApplicationPartsAssemblyInfo.cs
+E:\Teaching program\.net core پیشرفته\N_Top_Project\13\Top_Project\TopDoket\TopDoket.Web\obj\Debug\net5.0\TopDoket.Web.MvcApplicationPartsAssemblyInfo.cache
+E:\Teaching program\.net core پیشرفته\N_Top_Project\13\Top_Project\TopDoket\TopDoket.Web\obj\Debug\net5.0\TopDoket.Web.RazorAssemblyInfo.cache
+E:\Teaching program\.net core پیشرفته\N_Top_Project\13\Top_Project\TopDoket\TopDoket.Web\obj\Debug\net5.0\TopDoket.Web.RazorAssemblyInfo.cs
+E:\Teaching program\.net core پیشرفته\N_Top_Project\13\Top_Project\TopDoket\TopDoket.Web\obj\Debug\net5.0\staticwebassets\TopDoket.Web.StaticWebAssets.Manifest.cache
+E:\Teaching program\.net core پیشرفته\N_Top_Project\13\Top_Project\TopDoket\TopDoket.Web\obj\Debug\net5.0\staticwebassets\TopDoket.Web.StaticWebAssets.xml
+E:\Teaching program\.net core پیشرفته\N_Top_Project\13\Top_Project\TopDoket\TopDoket.Web\obj\Debug\net5.0\scopedcss\bundle\TopDoket.Web.styles.css
+E:\Teaching program\.net core پیشرفته\N_Top_Project\13\Top_Project\TopDoket\TopDoket.Web\obj\Debug\net5.0\TopDoket.Web.TagHelpers.input.cache
+E:\Teaching program\.net core پیشرفته\N_Top_Project\13\Top_Project\TopDoket\TopDoket.Web\obj\Debug\net5.0\TopDoket.Web.TagHelpers.output.cache
+E:\Teaching program\.net core پیشرفته\N_Top_Project\13\Top_Project\TopDoket\TopDoket.Web\obj\Debug\net5.0\TopDoket.Web.RazorCoreGenerate.cache
+E:\Teaching program\.net core پیشرفته\N_Top_Project\13\Top_Project\TopDoket\TopDoket.Web\obj\Debug\net5.0\Razor\Areas\UserPanel\Views\Home\ChangePassword.cshtml.g.cs
+E:\Teaching program\.net core پیشرفته\N_Top_Project\13\Top_Project\TopDoket\TopDoket.Web\obj\Debug\net5.0\Razor\Areas\UserPanel\Views\Home\EditProfile.cshtml.g.cs
+E:\Teaching program\.net core پیشرفته\N_Top_Project\13\Top_Project\TopDoket\TopDoket.Web\obj\Debug\net5.0\Razor\Areas\UserPanel\Views\Home\Index.cshtml.g.cs
+E:\Teaching program\.net core پیشرفته\N_Top_Project\13\Top_Project\TopDoket\TopDoket.Web\obj\Debug\net5.0\Razor\Areas\UserPanel\Views\MyOrders\Index.cshtml.g.cs
+E:\Teaching program\.net core پیشرفته\N_Top_Project\13\Top_Project\TopDoket\TopDoket.Web\obj\Debug\net5.0\Razor\Areas\UserPanel\Views\MyOrders\ShowOrder.cshtml.g.cs
+E:\Teaching program\.net core پیشرفته\N_Top_Project\13\Top_Project\TopDoket\TopDoket.Web\obj\Debug\net5.0\Razor\Areas\UserPanel\Views\Shared\_SideBar.cshtml.g.cs
+E:\Teaching program\.net core پیشرفته\N_Top_Project\13\Top_Project\TopDoket\TopDoket.Web\obj\Debug\net5.0\Razor\Areas\UserPanel\Views\Wallet\Index.cshtml.g.cs
+E:\Teaching program\.net core پیشرفته\N_Top_Project\13\Top_Project\TopDoket\TopDoket.Web\obj\Debug\net5.0\Razor\Areas\UserPanel\Views\_ViewImports.cshtml.g.cs
+E:\Teaching program\.net core پیشرفته\N_Top_Project\13\Top_Project\TopDoket\TopDoket.Web\obj\Debug\net5.0\Razor\Areas\UserPanel\Views\_ViewStart.cshtml.g.cs
+E:\Teaching program\.net core پیشرفته\N_Top_Project\13\Top_Project\TopDoket\TopDoket.Web\obj\Debug\net5.0\Razor\Pages\Admin\CourseGroups\CreateGroup.cshtml.g.cs
+E:\Teaching program\.net core پیشرفته\N_Top_Project\13\Top_Project\TopDoket\TopDoket.Web\obj\Debug\net5.0\Razor\Pages\Admin\CourseGroups\EditGroup.cshtml.g.cs
+E:\Teaching program\.net core پیشرفته\N_Top_Project\13\Top_Project\TopDoket\TopDoket.Web\obj\Debug\net5.0\Razor\Pages\Admin\CourseGroups\Index.cshtml.g.cs
+E:\Teaching program\.net core پیشرفته\N_Top_Project\13\Top_Project\TopDoket\TopDoket.Web\obj\Debug\net5.0\Razor\Pages\Admin\Courses\CreateCourse.cshtml.g.cs
+E:\Teaching program\.net core پیشرفته\N_Top_Project\13\Top_Project\TopDoket\TopDoket.Web\obj\Debug\net5.0\Razor\Pages\Admin\Courses\CreateEpisode.cshtml.g.cs
+E:\Teaching program\.net core پیشرفته\N_Top_Project\13\Top_Project\TopDoket\TopDoket.Web\obj\Debug\net5.0\Razor\Pages\Admin\Courses\DeleteEpisode.cshtml.g.cs
+E:\Teaching program\.net core پیشرفته\N_Top_Project\13\Top_Project\TopDoket\TopDoket.Web\obj\Debug\net5.0\Razor\Pages\Admin\Courses\EditCourse.cshtml.g.cs
+E:\Teaching program\.net core پیشرفته\N_Top_Project\13\Top_Project\TopDoket\TopDoket.Web\obj\Debug\net5.0\Razor\Pages\Admin\Courses\EditEpisode.cshtml.g.cs
+E:\Teaching program\.net core پیشرفته\N_Top_Project\13\Top_Project\TopDoket\TopDoket.Web\obj\Debug\net5.0\Razor\Pages\Admin\Courses\Index.cshtml.g.cs
+E:\Teaching program\.net core پیشرفته\N_Top_Project\13\Top_Project\TopDoket\TopDoket.Web\obj\Debug\net5.0\Razor\Pages\Admin\Courses\IndexEpisode.cshtml.g.cs
+E:\Teaching program\.net core پیشرفته\N_Top_Project\13\Top_Project\TopDoket\TopDoket.Web\obj\Debug\net5.0\Razor\Pages\Admin\Discount\CreateDiscount.cshtml.g.cs
+E:\Teaching program\.net core پیشرفته\N_Top_Project\13\Top_Project\TopDoket\TopDoket.Web\obj\Debug\net5.0\Razor\Pages\Admin\Discount\EditDiscount.cshtml.g.cs
+E:\Teaching program\.net core پیشرفته\N_Top_Project\13\Top_Project\TopDoket\TopDoket.Web\obj\Debug\net5.0\Razor\Pages\Admin\Discount\Index.cshtml.g.cs
+E:\Teaching program\.net core پیشرفته\N_Top_Project\13\Top_Project\TopDoket\TopDoket.Web\obj\Debug\net5.0\Razor\Pages\Admin\Index.cshtml.g.cs
+E:\Teaching program\.net core پیشرفته\N_Top_Project\13\Top_Project\TopDoket\TopDoket.Web\obj\Debug\net5.0\Razor\Pages\Admin\Roles\CreateRole.cshtml.g.cs
+E:\Teaching program\.net core پیشرفته\N_Top_Project\13\Top_Project\TopDoket\TopDoket.Web\obj\Debug\net5.0\Razor\Pages\Admin\Roles\DeleteRole.cshtml.g.cs
+E:\Teaching program\.net core پیشرفته\N_Top_Project\13\Top_Project\TopDoket\TopDoket.Web\obj\Debug\net5.0\Razor\Pages\Admin\Roles\EditRole.cshtml.g.cs
+E:\Teaching program\.net core پیشرفته\N_Top_Project\13\Top_Project\TopDoket\TopDoket.Web\obj\Debug\net5.0\Razor\Pages\Admin\Roles\Index.cshtml.g.cs
+E:\Teaching program\.net core پیشرفته\N_Top_Project\13\Top_Project\TopDoket\TopDoket.Web\obj\Debug\net5.0\Razor\Pages\Admin\Users\ActivateUser.cshtml.g.cs
+E:\Teaching program\.net core پیشرفته\N_Top_Project\13\Top_Project\TopDoket\TopDoket.Web\obj\Debug\net5.0\Razor\Pages\Admin\Users\CreateUser.cshtml.g.cs
+E:\Teaching program\.net core پیشرفته\N_Top_Project\13\Top_Project\TopDoket\TopDoket.Web\obj\Debug\net5.0\Razor\Pages\Admin\Users\DeleteUser.cshtml.g.cs
+E:\Teaching program\.net core پیشرفته\N_Top_Project\13\Top_Project\TopDoket\TopDoket.Web\obj\Debug\net5.0\Razor\Pages\Admin\Users\EditUser.cshtml.g.cs
+E:\Teaching program\.net core پیشرفته\N_Top_Project\13\Top_Project\TopDoket\TopDoket.Web\obj\Debug\net5.0\Razor\Pages\Admin\Users\Index.cshtml.g.cs
+E:\Teaching program\.net core پیشرفته\N_Top_Project\13\Top_Project\TopDoket\TopDoket.Web\obj\Debug\net5.0\Razor\Pages\Admin\Users\ListDeleteUsers.cshtml.g.cs
+E:\Teaching program\.net core پیشرفته\N_Top_Project\13\Top_Project\TopDoket\TopDoket.Web\obj\Debug\net5.0\Razor\Pages\Shared\_AdminLayout.cshtml.g.cs
+E:\Teaching program\.net core پیشرفته\N_Top_Project\13\Top_Project\TopDoket\TopDoket.Web\obj\Debug\net5.0\Razor\Pages\_ViewImports.cshtml.g.cs
+E:\Teaching program\.net core پیشرفته\N_Top_Project\13\Top_Project\TopDoket\TopDoket.Web\obj\Debug\net5.0\Razor\Pages\_ViewStart.cshtml.g.cs
+E:\Teaching program\.net core پیشرفته\N_Top_Project\13\Top_Project\TopDoket\TopDoket.Web\obj\Debug\net5.0\Razor\Views\Account\ActiveAccount.cshtml.g.cs
+E:\Teaching program\.net core پیشرفته\N_Top_Project\13\Top_Project\TopDoket\TopDoket.Web\obj\Debug\net5.0\Razor\Views\Account\ForgotPassword.cshtml.g.cs
+E:\Teaching program\.net core پیشرفته\N_Top_Project\13\Top_Project\TopDoket\TopDoket.Web\obj\Debug\net5.0\Razor\Views\Account\Login.cshtml.g.cs
+E:\Teaching program\.net core پیشرفته\N_Top_Project\13\Top_Project\TopDoket\TopDoket.Web\obj\Debug\net5.0\Razor\Views\Account\Register.cshtml.g.cs
+E:\Teaching program\.net core پیشرفته\N_Top_Project\13\Top_Project\TopDoket\TopDoket.Web\obj\Debug\net5.0\Razor\Views\Account\ResetPassword.cshtml.g.cs
+E:\Teaching program\.net core پیشرفته\N_Top_Project\13\Top_Project\TopDoket\TopDoket.Web\obj\Debug\net5.0\Razor\Views\Account\SuccessRegister.cshtml.g.cs
+E:\Teaching program\.net core پیشرفته\N_Top_Project\13\Top_Project\TopDoket\TopDoket.Web\obj\Debug\net5.0\Razor\Views\Course\Index.cshtml.g.cs
+E:\Teaching program\.net core پیشرفته\N_Top_Project\13\Top_Project\TopDoket\TopDoket.Web\obj\Debug\net5.0\Razor\Views\Course\ShowComment.cshtml.g.cs
+E:\Teaching program\.net core پیشرفته\N_Top_Project\13\Top_Project\TopDoket\TopDoket.Web\obj\Debug\net5.0\Razor\Views\Course\ShowCourse.cshtml.g.cs
+E:\Teaching program\.net core پیشرفته\N_Top_Project\13\Top_Project\TopDoket\TopDoket.Web\obj\Debug\net5.0\Razor\Views\Home\Index.cshtml.g.cs
+E:\Teaching program\.net core پیشرفته\N_Top_Project\13\Top_Project\TopDoket\TopDoket.Web\obj\Debug\net5.0\Razor\Views\Home\onlinePayment.cshtml.g.cs
+E:\Teaching program\.net core پیشرفته\N_Top_Project\13\Top_Project\TopDoket\TopDoket.Web\obj\Debug\net5.0\Razor\Views\Shared\Components\CourseGroupComponent\CourseGroup.cshtml.g.cs
+E:\Teaching program\.net core پیشرفته\N_Top_Project\13\Top_Project\TopDoket\TopDoket.Web\obj\Debug\net5.0\Razor\Views\Shared\_ActiveEmail.cshtml.g.cs
+E:\Teaching program\.net core پیشرفته\N_Top_Project\13\Top_Project\TopDoket\TopDoket.Web\obj\Debug\net5.0\Razor\Views\Shared\_BoxCourse.cshtml.g.cs
+E:\Teaching program\.net core پیشرفته\N_Top_Project\13\Top_Project\TopDoket\TopDoket.Web\obj\Debug\net5.0\Razor\Views\Shared\_Footer.cshtml.g.cs
+E:\Teaching program\.net core پیشرفته\N_Top_Project\13\Top_Project\TopDoket\TopDoket.Web\obj\Debug\net5.0\Razor\Views\Shared\_ForgotPassword.cshtml.g.cs
+E:\Teaching program\.net core پیشرفته\N_Top_Project\13\Top_Project\TopDoket\TopDoket.Web\obj\Debug\net5.0\Razor\Views\Shared\_Layout.cshtml.g.cs
+E:\Teaching program\.net core پیشرفته\N_Top_Project\13\Top_Project\TopDoket\TopDoket.Web\obj\Debug\net5.0\Razor\Views\Shared\_MetaTags.cshtml.g.cs
+E:\Teaching program\.net core پیشرفته\N_Top_Project\13\Top_Project\TopDoket\TopDoket.Web\obj\Debug\net5.0\Razor\Views\Shared\_Styles.cshtml.g.cs
+E:\Teaching program\.net core پیشرفته\N_Top_Project\13\Top_Project\TopDoket\TopDoket.Web\obj\Debug\net5.0\Razor\Views\Shared\_ValidationScriptsPartial.cshtml.g.cs
+E:\Teaching program\.net core پیشرفته\N_Top_Project\13\Top_Project\TopDoket\TopDoket.Web\obj\Debug\net5.0\Razor\Views\_ViewImports.cshtml.g.cs
+E:\Teaching program\.net core پیشرفته\N_Top_Project\13\Top_Project\TopDoket\TopDoket.Web\obj\Debug\net5.0\Razor\Views\_ViewStart.cshtml.g.cs
+E:\Teaching program\.net core پیشرفته\N_Top_Project\13\Top_Project\TopDoket\TopDoket.Web\obj\Debug\net5.0\TopDoket.Web.RazorTargetAssemblyInfo.cache
+E:\Teaching program\.net core پیشرفته\N_Top_Project\13\Top_Project\TopDoket\TopDoket.Web\obj\Debug\net5.0\TopDoket.Web.RazorTargetAssemblyInfo.cs
+E:\Teaching program\.net core پیشرفته\N_Top_Project\13\Top_Project\TopDoket\TopDoket.Web\obj\Debug\net5.0\TopDoket.Web.Views.pdb
+E:\Teaching program\.net core پیشرفته\N_Top_Project\13\Top_Project\TopDoket\TopDoket.Web\obj\Debug\net5.0\TopDoket.Web.csproj.CopyComplete
+E:\Teaching program\.net core پیشرفته\N_Top_Project\13\Top_Project\TopDoket\TopDoket.Web\obj\Debug\net5.0\TopDoket.Web.dll
+E:\Teaching program\.net core پیشرفته\N_Top_Project\13\Top_Project\TopDoket\TopDoket.Web\obj\Debug\net5.0\ref\TopDoket.Web.dll
+E:\Teaching program\.net core پیشرفته\N_Top_Project\13\Top_Project\TopDoket\TopDoket.Web\obj\Debug\net5.0\TopDoket.Web.pdb
+E:\Teaching program\.net core پیشرفته\N_Top_Project\13\Top_Project\TopDoket\TopDoket.Web\obj\Debug\net5.0\TopDoket.Web.genruntimeconfig.cache
+E:\Teaching program\.net core پیشرفته\N_Top_Project\13\Top_Project\TopDoket\TopDoket.Web\bin\Debug\net5.0\System.Linq.Dynamic.dll
+C:\Users\P\Desktop\Top_Project\TopDoket\TopDoket.Web\bin\Debug\net5.0\web.config
+C:\Users\P\Desktop\Top_Project\TopDoket\TopDoket.Web\bin\Debug\net5.0\appsettings.Development.json
+C:\Users\P\Desktop\Top_Project\TopDoket\TopDoket.Web\bin\Debug\net5.0\appsettings.json
+C:\Users\P\Desktop\Top_Project\TopDoket\TopDoket.Web\bin\Debug\net5.0\TopDoket.Web.StaticWebAssets.xml
+C:\Users\P\Desktop\Top_Project\TopDoket\TopDoket.Web\bin\Debug\net5.0\TopDoket.Web.exe
+C:\Users\P\Desktop\Top_Project\TopDoket\TopDoket.Web\bin\Debug\net5.0\TopDoket.Web.deps.json
+C:\Users\P\Desktop\Top_Project\TopDoket\TopDoket.Web\bin\Debug\net5.0\TopDoket.Web.runtimeconfig.json
+C:\Users\P\Desktop\Top_Project\TopDoket\TopDoket.Web\bin\Debug\net5.0\TopDoket.Web.runtimeconfig.dev.json
+C:\Users\P\Desktop\Top_Project\TopDoket\TopDoket.Web\bin\Debug\net5.0\TopDoket.Web.dll
+C:\Users\P\Desktop\Top_Project\TopDoket\TopDoket.Web\bin\Debug\net5.0\ref\TopDoket.Web.dll
+C:\Users\P\Desktop\Top_Project\TopDoket\TopDoket.Web\bin\Debug\net5.0\TopDoket.Web.pdb
+C:\Users\P\Desktop\Top_Project\TopDoket\TopDoket.Web\bin\Debug\net5.0\TopDoket.Web.Views.dll
+C:\Users\P\Desktop\Top_Project\TopDoket\TopDoket.Web\bin\Debug\net5.0\TopDoket.Web.Views.pdb
+C:\Users\P\Desktop\Top_Project\TopDoket\TopDoket.Web\bin\Debug\net5.0\CoreCompat.System.Drawing.dll
+C:\Users\P\Desktop\Top_Project\TopDoket\TopDoket.Web\bin\Debug\net5.0\Humanizer.dll
+C:\Users\P\Desktop\Top_Project\TopDoket\TopDoket.Web\bin\Debug\net5.0\Microsoft.AspNetCore.Cryptography.Internal.dll
+C:\Users\P\Desktop\Top_Project\TopDoket\TopDoket.Web\bin\Debug\net5.0\Microsoft.AspNetCore.Cryptography.KeyDerivation.dll
+C:\Users\P\Desktop\Top_Project\TopDoket\TopDoket.Web\bin\Debug\net5.0\Microsoft.AspNetCore.Diagnostics.EntityFrameworkCore.dll
+C:\Users\P\Desktop\Top_Project\TopDoket\TopDoket.Web\bin\Debug\net5.0\Microsoft.AspNetCore.Identity.EntityFrameworkCore.dll
+C:\Users\P\Desktop\Top_Project\TopDoket\TopDoket.Web\bin\Debug\net5.0\Microsoft.AspNetCore.Identity.UI.Views.V4.dll
+C:\Users\P\Desktop\Top_Project\TopDoket\TopDoket.Web\bin\Debug\net5.0\Microsoft.AspNetCore.Identity.UI.dll
+C:\Users\P\Desktop\Top_Project\TopDoket\TopDoket.Web\bin\Debug\net5.0\Microsoft.AspNetCore.JsonPatch.dll
+C:\Users\P\Desktop\Top_Project\TopDoket\TopDoket.Web\bin\Debug\net5.0\Microsoft.AspNetCore.Mvc.Razor.Extensions.dll
+C:\Users\P\Desktop\Top_Project\TopDoket\TopDoket.Web\bin\Debug\net5.0\Microsoft.AspNetCore.Razor.Language.dll
+C:\Users\P\Desktop\Top_Project\TopDoket\TopDoket.Web\bin\Debug\net5.0\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\P\Desktop\Top_Project\TopDoket\TopDoket.Web\bin\Debug\net5.0\Microsoft.CodeAnalysis.dll
+C:\Users\P\Desktop\Top_Project\TopDoket\TopDoket.Web\bin\Debug\net5.0\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\P\Desktop\Top_Project\TopDoket\TopDoket.Web\bin\Debug\net5.0\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+C:\Users\P\Desktop\Top_Project\TopDoket\TopDoket.Web\bin\Debug\net5.0\Microsoft.CodeAnalysis.Razor.dll
+C:\Users\P\Desktop\Top_Project\TopDoket\TopDoket.Web\bin\Debug\net5.0\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\P\Desktop\Top_Project\TopDoket\TopDoket.Web\bin\Debug\net5.0\Microsoft.CodeAnalysis.Workspaces.dll
+C:\Users\P\Desktop\Top_Project\TopDoket\TopDoket.Web\bin\Debug\net5.0\Microsoft.Data.SqlClient.dll
+C:\Users\P\Desktop\Top_Project\TopDoket\TopDoket.Web\bin\Debug\net5.0\Microsoft.DotNet.PlatformAbstractions.dll
+C:\Users\P\Desktop\Top_Project\TopDoket\TopDoket.Web\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\P\Desktop\Top_Project\TopDoket\TopDoket.Web\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\P\Desktop\Top_Project\TopDoket\TopDoket.Web\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\P\Desktop\Top_Project\TopDoket\TopDoket.Web\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\P\Desktop\Top_Project\TopDoket\TopDoket.Web\bin\Debug\net5.0\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\P\Desktop\Top_Project\TopDoket\TopDoket.Web\bin\Debug\net5.0\Microsoft.Extensions.DependencyModel.dll
+C:\Users\P\Desktop\Top_Project\TopDoket\TopDoket.Web\bin\Debug\net5.0\Microsoft.Extensions.FileProviders.Embedded.dll
+C:\Users\P\Desktop\Top_Project\TopDoket\TopDoket.Web\bin\Debug\net5.0\Microsoft.Extensions.Identity.Core.dll
+C:\Users\P\Desktop\Top_Project\TopDoket\TopDoket.Web\bin\Debug\net5.0\Microsoft.Extensions.Identity.Stores.dll
+C:\Users\P\Desktop\Top_Project\TopDoket\TopDoket.Web\bin\Debug\net5.0\Microsoft.Identity.Client.dll
+C:\Users\P\Desktop\Top_Project\TopDoket\TopDoket.Web\bin\Debug\net5.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\P\Desktop\Top_Project\TopDoket\TopDoket.Web\bin\Debug\net5.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\P\Desktop\Top_Project\TopDoket\TopDoket.Web\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.dll
+C:\Users\P\Desktop\Top_Project\TopDoket\TopDoket.Web\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\P\Desktop\Top_Project\TopDoket\TopDoket.Web\bin\Debug\net5.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\P\Desktop\Top_Project\TopDoket\TopDoket.Web\bin\Debug\net5.0\Microsoft.VisualBasic.dll
+C:\Users\P\Desktop\Top_Project\TopDoket\TopDoket.Web\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.dll
+C:\Users\P\Desktop\Top_Project\TopDoket\TopDoket.Web\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.Contracts.dll
+C:\Users\P\Desktop\Top_Project\TopDoket\TopDoket.Web\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.Core.dll
+C:\Users\P\Desktop\Top_Project\TopDoket\TopDoket.Web\bin\Debug\net5.0\dotnet-aspnet-codegenerator-design.dll
+C:\Users\P\Desktop\Top_Project\TopDoket\TopDoket.Web\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.EntityFrameworkCore.dll
+C:\Users\P\Desktop\Top_Project\TopDoket\TopDoket.Web\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.Templating.dll
+C:\Users\P\Desktop\Top_Project\TopDoket\TopDoket.Web\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.Utils.dll
+C:\Users\P\Desktop\Top_Project\TopDoket\TopDoket.Web\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGenerators.Mvc.dll
+C:\Users\P\Desktop\Top_Project\TopDoket\TopDoket.Web\bin\Debug\net5.0\Newtonsoft.Json.dll
+C:\Users\P\Desktop\Top_Project\TopDoket\TopDoket.Web\bin\Debug\net5.0\Newtonsoft.Json.Bson.dll
+C:\Users\P\Desktop\Top_Project\TopDoket\TopDoket.Web\bin\Debug\net5.0\SharpCompress.dll
+C:\Users\P\Desktop\Top_Project\TopDoket\TopDoket.Web\bin\Debug\net5.0\System.Composition.AttributedModel.dll
+C:\Users\P\Desktop\Top_Project\TopDoket\TopDoket.Web\bin\Debug\net5.0\System.Composition.Convention.dll
+C:\Users\P\Desktop\Top_Project\TopDoket\TopDoket.Web\bin\Debug\net5.0\System.Composition.Hosting.dll
+C:\Users\P\Desktop\Top_Project\TopDoket\TopDoket.Web\bin\Debug\net5.0\System.Composition.Runtime.dll
+C:\Users\P\Desktop\Top_Project\TopDoket\TopDoket.Web\bin\Debug\net5.0\System.Composition.TypedParts.dll
+C:\Users\P\Desktop\Top_Project\TopDoket\TopDoket.Web\bin\Debug\net5.0\System.Configuration.ConfigurationManager.dll
+C:\Users\P\Desktop\Top_Project\TopDoket\TopDoket.Web\bin\Debug\net5.0\System.Diagnostics.DiagnosticSource.dll
+C:\Users\P\Desktop\Top_Project\TopDoket\TopDoket.Web\bin\Debug\net5.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\P\Desktop\Top_Project\TopDoket\TopDoket.Web\bin\Debug\net5.0\System.Runtime.Caching.dll
+C:\Users\P\Desktop\Top_Project\TopDoket\TopDoket.Web\bin\Debug\net5.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\P\Desktop\Top_Project\TopDoket\TopDoket.Web\bin\Debug\net5.0\ZarinpalSandbox.dll
+C:\Users\P\Desktop\Top_Project\TopDoket\TopDoket.Web\bin\Debug\net5.0\cs\Microsoft.CodeAnalysis.resources.dll
+C:\Users\P\Desktop\Top_Project\TopDoket\TopDoket.Web\bin\Debug\net5.0\de\Microsoft.CodeAnalysis.resources.dll
+C:\Users\P\Desktop\Top_Project\TopDoket\TopDoket.Web\bin\Debug\net5.0\es\Microsoft.CodeAnalysis.resources.dll
+C:\Users\P\Desktop\Top_Project\TopDoket\TopDoket.Web\bin\Debug\net5.0\fr\Microsoft.CodeAnalysis.resources.dll
+C:\Users\P\Desktop\Top_Project\TopDoket\TopDoket.Web\bin\Debug\net5.0\it\Microsoft.CodeAnalysis.resources.dll
+C:\Users\P\Desktop\Top_Project\TopDoket\TopDoket.Web\bin\Debug\net5.0\ja\Microsoft.CodeAnalysis.resources.dll
+C:\Users\P\Desktop\Top_Project\TopDoket\TopDoket.Web\bin\Debug\net5.0\ko\Microsoft.CodeAnalysis.resources.dll
+C:\Users\P\Desktop\Top_Project\TopDoket\TopDoket.Web\bin\Debug\net5.0\pl\Microsoft.CodeAnalysis.resources.dll
+C:\Users\P\Desktop\Top_Project\TopDoket\TopDoket.Web\bin\Debug\net5.0\pt-BR\Microsoft.CodeAnalysis.resources.dll
+C:\Users\P\Desktop\Top_Project\TopDoket\TopDoket.Web\bin\Debug\net5.0\ru\Microsoft.CodeAnalysis.resources.dll
+C:\Users\P\Desktop\Top_Project\TopDoket\TopDoket.Web\bin\Debug\net5.0\tr\Microsoft.CodeAnalysis.resources.dll
+C:\Users\P\Desktop\Top_Project\TopDoket\TopDoket.Web\bin\Debug\net5.0\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+C:\Users\P\Desktop\Top_Project\TopDoket\TopDoket.Web\bin\Debug\net5.0\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+C:\Users\P\Desktop\Top_Project\TopDoket\TopDoket.Web\bin\Debug\net5.0\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\P\Desktop\Top_Project\TopDoket\TopDoket.Web\bin\Debug\net5.0\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\P\Desktop\Top_Project\TopDoket\TopDoket.Web\bin\Debug\net5.0\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\P\Desktop\Top_Project\TopDoket\TopDoket.Web\bin\Debug\net5.0\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\P\Desktop\Top_Project\TopDoket\TopDoket.Web\bin\Debug\net5.0\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\P\Desktop\Top_Project\TopDoket\TopDoket.Web\bin\Debug\net5.0\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\P\Desktop\Top_Project\TopDoket\TopDoket.Web\bin\Debug\net5.0\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\P\Desktop\Top_Project\TopDoket\TopDoket.Web\bin\Debug\net5.0\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\P\Desktop\Top_Project\TopDoket\TopDoket.Web\bin\Debug\net5.0\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\P\Desktop\Top_Project\TopDoket\TopDoket.Web\bin\Debug\net5.0\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\P\Desktop\Top_Project\TopDoket\TopDoket.Web\bin\Debug\net5.0\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\P\Desktop\Top_Project\TopDoket\TopDoket.Web\bin\Debug\net5.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\P\Desktop\Top_Project\TopDoket\TopDoket.Web\bin\Debug\net5.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\P\Desktop\Top_Project\TopDoket\TopDoket.Web\bin\Debug\net5.0\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\P\Desktop\Top_Project\TopDoket\TopDoket.Web\bin\Debug\net5.0\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\P\Desktop\Top_Project\TopDoket\TopDoket.Web\bin\Debug\net5.0\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\P\Desktop\Top_Project\TopDoket\TopDoket.Web\bin\Debug\net5.0\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\P\Desktop\Top_Project\TopDoket\TopDoket.Web\bin\Debug\net5.0\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\P\Desktop\Top_Project\TopDoket\TopDoket.Web\bin\Debug\net5.0\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\P\Desktop\Top_Project\TopDoket\TopDoket.Web\bin\Debug\net5.0\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\P\Desktop\Top_Project\TopDoket\TopDoket.Web\bin\Debug\net5.0\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\P\Desktop\Top_Project\TopDoket\TopDoket.Web\bin\Debug\net5.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\P\Desktop\Top_Project\TopDoket\TopDoket.Web\bin\Debug\net5.0\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\P\Desktop\Top_Project\TopDoket\TopDoket.Web\bin\Debug\net5.0\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\P\Desktop\Top_Project\TopDoket\TopDoket.Web\bin\Debug\net5.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\P\Desktop\Top_Project\TopDoket\TopDoket.Web\bin\Debug\net5.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\P\Desktop\Top_Project\TopDoket\TopDoket.Web\bin\Debug\net5.0\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\P\Desktop\Top_Project\TopDoket\TopDoket.Web\bin\Debug\net5.0\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\P\Desktop\Top_Project\TopDoket\TopDoket.Web\bin\Debug\net5.0\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\P\Desktop\Top_Project\TopDoket\TopDoket.Web\bin\Debug\net5.0\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\P\Desktop\Top_Project\TopDoket\TopDoket.Web\bin\Debug\net5.0\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\P\Desktop\Top_Project\TopDoket\TopDoket.Web\bin\Debug\net5.0\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\P\Desktop\Top_Project\TopDoket\TopDoket.Web\bin\Debug\net5.0\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\P\Desktop\Top_Project\TopDoket\TopDoket.Web\bin\Debug\net5.0\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\P\Desktop\Top_Project\TopDoket\TopDoket.Web\bin\Debug\net5.0\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\P\Desktop\Top_Project\TopDoket\TopDoket.Web\bin\Debug\net5.0\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\P\Desktop\Top_Project\TopDoket\TopDoket.Web\bin\Debug\net5.0\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\P\Desktop\Top_Project\TopDoket\TopDoket.Web\bin\Debug\net5.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\P\Desktop\Top_Project\TopDoket\TopDoket.Web\bin\Debug\net5.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\P\Desktop\Top_Project\TopDoket\TopDoket.Web\bin\Debug\net5.0\runtimes\debian-x64\native\libuv.so
+C:\Users\P\Desktop\Top_Project\TopDoket\TopDoket.Web\bin\Debug\net5.0\runtimes\fedora-x64\native\libuv.so
+C:\Users\P\Desktop\Top_Project\TopDoket\TopDoket.Web\bin\Debug\net5.0\runtimes\opensuse-x64\native\libuv.so
+C:\Users\P\Desktop\Top_Project\TopDoket\TopDoket.Web\bin\Debug\net5.0\runtimes\osx\native\libuv.dylib
+C:\Users\P\Desktop\Top_Project\TopDoket\TopDoket.Web\bin\Debug\net5.0\runtimes\rhel-x64\native\libuv.so
+C:\Users\P\Desktop\Top_Project\TopDoket\TopDoket.Web\bin\Debug\net5.0\runtimes\win7-arm\native\libuv.dll
+C:\Users\P\Desktop\Top_Project\TopDoket\TopDoket.Web\bin\Debug\net5.0\runtimes\win7-x64\native\libuv.dll
+C:\Users\P\Desktop\Top_Project\TopDoket\TopDoket.Web\bin\Debug\net5.0\runtimes\win7-x86\native\libuv.dll
+C:\Users\P\Desktop\Top_Project\TopDoket\TopDoket.Web\bin\Debug\net5.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\P\Desktop\Top_Project\TopDoket\TopDoket.Web\bin\Debug\net5.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\P\Desktop\Top_Project\TopDoket\TopDoket.Web\bin\Debug\net5.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\P\Desktop\Top_Project\TopDoket\TopDoket.Web\bin\Debug\net5.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\P\Desktop\Top_Project\TopDoket\TopDoket.Web\bin\Debug\net5.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\P\Desktop\Top_Project\TopDoket\TopDoket.Web\bin\Debug\net5.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\P\Desktop\Top_Project\TopDoket\TopDoket.Web\bin\Debug\net5.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\P\Desktop\Top_Project\TopDoket\TopDoket.Web\bin\Debug\net5.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\P\Desktop\Top_Project\TopDoket\TopDoket.Web\bin\Debug\net5.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\P\Desktop\Top_Project\TopDoket\TopDoket.Web\bin\Debug\net5.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\P\Desktop\Top_Project\TopDoket\TopDoket.Web\bin\Debug\net5.0\runtimes\win-arm\lib\net5.0\dotnet-aspnet-codegenerator-design.exe
+C:\Users\P\Desktop\Top_Project\TopDoket\TopDoket.Web\bin\Debug\net5.0\runtimes\win-arm64\lib\net5.0\dotnet-aspnet-codegenerator-design.exe
+C:\Users\P\Desktop\Top_Project\TopDoket\TopDoket.Web\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+C:\Users\P\Desktop\Top_Project\TopDoket\TopDoket.Web\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\P\Desktop\Top_Project\TopDoket\TopDoket.Web\bin\Debug\net5.0\TopDoket.Core.dll
+C:\Users\P\Desktop\Top_Project\TopDoket\TopDoket.Web\bin\Debug\net5.0\TopDoket.DataLayer.dll
+C:\Users\P\Desktop\Top_Project\TopDoket\TopDoket.Web\bin\Debug\net5.0\TopDoket.Core.pdb
+C:\Users\P\Desktop\Top_Project\TopDoket\TopDoket.Web\bin\Debug\net5.0\TopDoket.DataLayer.pdb
+C:\Users\P\Desktop\Top_Project\TopDoket\TopDoket.Web\obj\Debug\net5.0\TopDoket.Web.csprojAssemblyReference.cache
+C:\Users\P\Desktop\Top_Project\TopDoket\TopDoket.Web\obj\Debug\net5.0\TopDoket.Web.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\P\Desktop\Top_Project\TopDoket\TopDoket.Web\obj\Debug\net5.0\TopDoket.Web.AssemblyInfoInputs.cache
+C:\Users\P\Desktop\Top_Project\TopDoket\TopDoket.Web\obj\Debug\net5.0\TopDoket.Web.AssemblyInfo.cs
+C:\Users\P\Desktop\Top_Project\TopDoket\TopDoket.Web\obj\Debug\net5.0\TopDoket.Web.csproj.CoreCompileInputs.cache
+C:\Users\P\Desktop\Top_Project\TopDoket\TopDoket.Web\obj\Debug\net5.0\TopDoket.Web.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\P\Desktop\Top_Project\TopDoket\TopDoket.Web\obj\Debug\net5.0\TopDoket.Web.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\P\Desktop\Top_Project\TopDoket\TopDoket.Web\obj\Debug\net5.0\TopDoket.Web.RazorAssemblyInfo.cache
+C:\Users\P\Desktop\Top_Project\TopDoket\TopDoket.Web\obj\Debug\net5.0\TopDoket.Web.RazorAssemblyInfo.cs
+C:\Users\P\Desktop\Top_Project\TopDoket\TopDoket.Web\obj\Debug\net5.0\staticwebassets\TopDoket.Web.StaticWebAssets.Manifest.cache
+C:\Users\P\Desktop\Top_Project\TopDoket\TopDoket.Web\obj\Debug\net5.0\staticwebassets\TopDoket.Web.StaticWebAssets.xml
+C:\Users\P\Desktop\Top_Project\TopDoket\TopDoket.Web\obj\Debug\net5.0\scopedcss\bundle\TopDoket.Web.styles.css
+C:\Users\P\Desktop\Top_Project\TopDoket\TopDoket.Web\obj\Debug\net5.0\TopDoket.Web.TagHelpers.input.cache
+C:\Users\P\Desktop\Top_Project\TopDoket\TopDoket.Web\obj\Debug\net5.0\TopDoket.Web.TagHelpers.output.cache
+C:\Users\P\Desktop\Top_Project\TopDoket\TopDoket.Web\obj\Debug\net5.0\TopDoket.Web.RazorCoreGenerate.cache
+C:\Users\P\Desktop\Top_Project\TopDoket\TopDoket.Web\obj\Debug\net5.0\Razor\Areas\UserPanel\Views\Home\ChangePassword.cshtml.g.cs
+C:\Users\P\Desktop\Top_Project\TopDoket\TopDoket.Web\obj\Debug\net5.0\Razor\Areas\UserPanel\Views\Home\EditProfile.cshtml.g.cs
+C:\Users\P\Desktop\Top_Project\TopDoket\TopDoket.Web\obj\Debug\net5.0\Razor\Areas\UserPanel\Views\Home\Index.cshtml.g.cs
+C:\Users\P\Desktop\Top_Project\TopDoket\TopDoket.Web\obj\Debug\net5.0\Razor\Areas\UserPanel\Views\MyOrders\Index.cshtml.g.cs
+C:\Users\P\Desktop\Top_Project\TopDoket\TopDoket.Web\obj\Debug\net5.0\Razor\Areas\UserPanel\Views\MyOrders\ShowOrder.cshtml.g.cs
+C:\Users\P\Desktop\Top_Project\TopDoket\TopDoket.Web\obj\Debug\net5.0\Razor\Areas\UserPanel\Views\Shared\_SideBar.cshtml.g.cs
+C:\Users\P\Desktop\Top_Project\TopDoket\TopDoket.Web\obj\Debug\net5.0\Razor\Areas\UserPanel\Views\Wallet\Index.cshtml.g.cs
+C:\Users\P\Desktop\Top_Project\TopDoket\TopDoket.Web\obj\Debug\net5.0\Razor\Areas\UserPanel\Views\_ViewImports.cshtml.g.cs
+C:\Users\P\Desktop\Top_Project\TopDoket\TopDoket.Web\obj\Debug\net5.0\Razor\Areas\UserPanel\Views\_ViewStart.cshtml.g.cs
+C:\Users\P\Desktop\Top_Project\TopDoket\TopDoket.Web\obj\Debug\net5.0\Razor\Pages\Admin\CourseGroups\CreateGroup.cshtml.g.cs
+C:\Users\P\Desktop\Top_Project\TopDoket\TopDoket.Web\obj\Debug\net5.0\Razor\Pages\Admin\CourseGroups\EditGroup.cshtml.g.cs
+C:\Users\P\Desktop\Top_Project\TopDoket\TopDoket.Web\obj\Debug\net5.0\Razor\Pages\Admin\CourseGroups\Index.cshtml.g.cs
+C:\Users\P\Desktop\Top_Project\TopDoket\TopDoket.Web\obj\Debug\net5.0\Razor\Pages\Admin\Courses\CreateCourse.cshtml.g.cs
+C:\Users\P\Desktop\Top_Project\TopDoket\TopDoket.Web\obj\Debug\net5.0\Razor\Pages\Admin\Courses\CreateEpisode.cshtml.g.cs
+C:\Users\P\Desktop\Top_Project\TopDoket\TopDoket.Web\obj\Debug\net5.0\Razor\Pages\Admin\Courses\DeleteEpisode.cshtml.g.cs
+C:\Users\P\Desktop\Top_Project\TopDoket\TopDoket.Web\obj\Debug\net5.0\Razor\Pages\Admin\Courses\EditCourse.cshtml.g.cs
+C:\Users\P\Desktop\Top_Project\TopDoket\TopDoket.Web\obj\Debug\net5.0\Razor\Pages\Admin\Courses\EditEpisode.cshtml.g.cs
+C:\Users\P\Desktop\Top_Project\TopDoket\TopDoket.Web\obj\Debug\net5.0\Razor\Pages\Admin\Courses\Index.cshtml.g.cs
+C:\Users\P\Desktop\Top_Project\TopDoket\TopDoket.Web\obj\Debug\net5.0\Razor\Pages\Admin\Courses\IndexEpisode.cshtml.g.cs
+C:\Users\P\Desktop\Top_Project\TopDoket\TopDoket.Web\obj\Debug\net5.0\Razor\Pages\Admin\Discount\CreateDiscount.cshtml.g.cs
+C:\Users\P\Desktop\Top_Project\TopDoket\TopDoket.Web\obj\Debug\net5.0\Razor\Pages\Admin\Discount\EditDiscount.cshtml.g.cs
+C:\Users\P\Desktop\Top_Project\TopDoket\TopDoket.Web\obj\Debug\net5.0\Razor\Pages\Admin\Discount\Index.cshtml.g.cs
+C:\Users\P\Desktop\Top_Project\TopDoket\TopDoket.Web\obj\Debug\net5.0\Razor\Pages\Admin\Index.cshtml.g.cs
+C:\Users\P\Desktop\Top_Project\TopDoket\TopDoket.Web\obj\Debug\net5.0\Razor\Pages\Admin\Roles\CreateRole.cshtml.g.cs
+C:\Users\P\Desktop\Top_Project\TopDoket\TopDoket.Web\obj\Debug\net5.0\Razor\Pages\Admin\Roles\DeleteRole.cshtml.g.cs
+C:\Users\P\Desktop\Top_Project\TopDoket\TopDoket.Web\obj\Debug\net5.0\Razor\Pages\Admin\Roles\EditRole.cshtml.g.cs
+C:\Users\P\Desktop\Top_Project\TopDoket\TopDoket.Web\obj\Debug\net5.0\Razor\Pages\Admin\Roles\Index.cshtml.g.cs
+C:\Users\P\Desktop\Top_Project\TopDoket\TopDoket.Web\obj\Debug\net5.0\Razor\Pages\Admin\Users\ActivateUser.cshtml.g.cs
+C:\Users\P\Desktop\Top_Project\TopDoket\TopDoket.Web\obj\Debug\net5.0\Razor\Pages\Admin\Users\CreateUser.cshtml.g.cs
+C:\Users\P\Desktop\Top_Project\TopDoket\TopDoket.Web\obj\Debug\net5.0\Razor\Pages\Admin\Users\DeleteUser.cshtml.g.cs
+C:\Users\P\Desktop\Top_Project\TopDoket\TopDoket.Web\obj\Debug\net5.0\Razor\Pages\Admin\Users\EditUser.cshtml.g.cs
+C:\Users\P\Desktop\Top_Project\TopDoket\TopDoket.Web\obj\Debug\net5.0\Razor\Pages\Admin\Users\Index.cshtml.g.cs
+C:\Users\P\Desktop\Top_Project\TopDoket\TopDoket.Web\obj\Debug\net5.0\Razor\Pages\Admin\Users\ListDeleteUsers.cshtml.g.cs
+C:\Users\P\Desktop\Top_Project\TopDoket\TopDoket.Web\obj\Debug\net5.0\Razor\Pages\Shared\_AdminLayout.cshtml.g.cs
+C:\Users\P\Desktop\Top_Project\TopDoket\TopDoket.Web\obj\Debug\net5.0\Razor\Pages\_ViewImports.cshtml.g.cs
+C:\Users\P\Desktop\Top_Project\TopDoket\TopDoket.Web\obj\Debug\net5.0\Razor\Pages\_ViewStart.cshtml.g.cs
+C:\Users\P\Desktop\Top_Project\TopDoket\TopDoket.Web\obj\Debug\net5.0\Razor\Views\Account\ActiveAccount.cshtml.g.cs
+C:\Users\P\Desktop\Top_Project\TopDoket\TopDoket.Web\obj\Debug\net5.0\Razor\Views\Account\ForgotPassword.cshtml.g.cs
+C:\Users\P\Desktop\Top_Project\TopDoket\TopDoket.Web\obj\Debug\net5.0\Razor\Views\Account\Login.cshtml.g.cs
+C:\Users\P\Desktop\Top_Project\TopDoket\TopDoket.Web\obj\Debug\net5.0\Razor\Views\Account\Register.cshtml.g.cs
+C:\Users\P\Desktop\Top_Project\TopDoket\TopDoket.Web\obj\Debug\net5.0\Razor\Views\Account\ResetPassword.cshtml.g.cs
+C:\Users\P\Desktop\Top_Project\TopDoket\TopDoket.Web\obj\Debug\net5.0\Razor\Views\Account\SuccessRegister.cshtml.g.cs
+C:\Users\P\Desktop\Top_Project\TopDoket\TopDoket.Web\obj\Debug\net5.0\Razor\Views\Course\CourseVote.cshtml.g.cs
+C:\Users\P\Desktop\Top_Project\TopDoket\TopDoket.Web\obj\Debug\net5.0\Razor\Views\Course\Index.cshtml.g.cs
+C:\Users\P\Desktop\Top_Project\TopDoket\TopDoket.Web\obj\Debug\net5.0\Razor\Views\Course\ShowComment.cshtml.g.cs
+C:\Users\P\Desktop\Top_Project\TopDoket\TopDoket.Web\obj\Debug\net5.0\Razor\Views\Course\ShowCourse.cshtml.g.cs
+C:\Users\P\Desktop\Top_Project\TopDoket\TopDoket.Web\obj\Debug\net5.0\Razor\Views\Home\Index.cshtml.g.cs
+C:\Users\P\Desktop\Top_Project\TopDoket\TopDoket.Web\obj\Debug\net5.0\Razor\Views\Home\onlinePayment.cshtml.g.cs
+C:\Users\P\Desktop\Top_Project\TopDoket\TopDoket.Web\obj\Debug\net5.0\Razor\Views\Shared\Components\CourseGroupComponent\CourseGroup.cshtml.g.cs
+C:\Users\P\Desktop\Top_Project\TopDoket\TopDoket.Web\obj\Debug\net5.0\Razor\Views\Shared\_ActiveEmail.cshtml.g.cs
+C:\Users\P\Desktop\Top_Project\TopDoket\TopDoket.Web\obj\Debug\net5.0\Razor\Views\Shared\_BoxCourse.cshtml.g.cs
+C:\Users\P\Desktop\Top_Project\TopDoket\TopDoket.Web\obj\Debug\net5.0\Razor\Views\Shared\_Footer.cshtml.g.cs
+C:\Users\P\Desktop\Top_Project\TopDoket\TopDoket.Web\obj\Debug\net5.0\Razor\Views\Shared\_ForgotPassword.cshtml.g.cs
+C:\Users\P\Desktop\Top_Project\TopDoket\TopDoket.Web\obj\Debug\net5.0\Razor\Views\Shared\_Layout.cshtml.g.cs
+C:\Users\P\Desktop\Top_Project\TopDoket\TopDoket.Web\obj\Debug\net5.0\Razor\Views\Shared\_MetaTags.cshtml.g.cs
+C:\Users\P\Desktop\Top_Project\TopDoket\TopDoket.Web\obj\Debug\net5.0\Razor\Views\Shared\_Styles.cshtml.g.cs
+C:\Users\P\Desktop\Top_Project\TopDoket\TopDoket.Web\obj\Debug\net5.0\Razor\Views\Shared\_ValidationScriptsPartial.cshtml.g.cs
+C:\Users\P\Desktop\Top_Project\TopDoket\TopDoket.Web\obj\Debug\net5.0\Razor\Views\_ViewImports.cshtml.g.cs
+C:\Users\P\Desktop\Top_Project\TopDoket\TopDoket.Web\obj\Debug\net5.0\Razor\Views\_ViewStart.cshtml.g.cs
+C:\Users\P\Desktop\Top_Project\TopDoket\TopDoket.Web\obj\Debug\net5.0\TopDoket.Web.RazorTargetAssemblyInfo.cache
+C:\Users\P\Desktop\Top_Project\TopDoket\TopDoket.Web\obj\Debug\net5.0\TopDoket.Web.RazorTargetAssemblyInfo.cs
+C:\Users\P\Desktop\Top_Project\TopDoket\TopDoket.Web\obj\Debug\net5.0\TopDoket.Web.Views.pdb
+C:\Users\P\Desktop\Top_Project\TopDoket\TopDoket.Web\obj\Debug\net5.0\TopDoket.Web.csproj.CopyComplete
+C:\Users\P\Desktop\Top_Project\TopDoket\TopDoket.Web\obj\Debug\net5.0\TopDoket.Web.dll
+C:\Users\P\Desktop\Top_Project\TopDoket\TopDoket.Web\obj\Debug\net5.0\ref\TopDoket.Web.dll
+C:\Users\P\Desktop\Top_Project\TopDoket\TopDoket.Web\obj\Debug\net5.0\TopDoket.Web.pdb
+C:\Users\P\Desktop\Top_Project\TopDoket\TopDoket.Web\obj\Debug\net5.0\TopDoket.Web.genruntimeconfig.cache
+C:\Users\P\Desktop\Top_Project\TopDoket\TopDoket.Web\obj\Debug\net5.0\Razor\Views\Shared\Components\LatesCourse\LatesCourse.cshtml.g.cs

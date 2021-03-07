@@ -1,0 +1,36 @@
+C:\Users\P\Desktop\Top_Project\TopDoket\TopDoket.DataLayer\bin\Debug\netcoreapp3.1\TopDoket.DataLayer.deps.json
+C:\Users\P\Desktop\Top_Project\TopDoket\TopDoket.DataLayer\bin\Debug\netcoreapp3.1\TopDoket.DataLayer.dll
+C:\Users\P\Desktop\Top_Project\TopDoket\TopDoket.DataLayer\bin\Debug\netcoreapp3.1\TopDoket.DataLayer.pdb
+C:\Users\P\Desktop\Top_Project\TopDoket\TopDoket.DataLayer\obj\Debug\netcoreapp3.1\TopDoket.DataLayer.AssemblyInfoInputs.cache
+C:\Users\P\Desktop\Top_Project\TopDoket\TopDoket.DataLayer\obj\Debug\netcoreapp3.1\TopDoket.DataLayer.AssemblyInfo.cs
+C:\Users\P\Desktop\Top_Project\TopDoket\TopDoket.DataLayer\obj\Debug\netcoreapp3.1\TopDoket.DataLayer.csproj.CoreCompileInputs.cache
+C:\Users\P\Desktop\Top_Project\TopDoket\TopDoket.DataLayer\obj\Debug\netcoreapp3.1\TopDoket.DataLayer.dll
+C:\Users\P\Desktop\Top_Project\TopDoket\TopDoket.DataLayer\obj\Debug\netcoreapp3.1\TopDoket.DataLayer.pdb
+C:\Users\P\Desktop\Top_Project\TopDoket\TopDoket.DataLayer\bin\Debug\netcoreapp3.1\TopDoket.DataLayer.runtimeconfig.json
+C:\Users\P\Desktop\Top_Project\TopDoket\TopDoket.DataLayer\bin\Debug\netcoreapp3.1\TopDoket.DataLayer.runtimeconfig.dev.json
+C:\Users\P\Desktop\Top_Project\TopDoket\TopDoket.DataLayer\obj\Debug\netcoreapp3.1\TopDoket.DataLayer.genruntimeconfig.cache
+C:\Users\P\Desktop\N_Top_Project\5\Top_Project\TopDoket\TopDoket.DataLayer\bin\Debug\netcoreapp3.1\TopDoket.DataLayer.deps.json
+C:\Users\P\Desktop\N_Top_Project\5\Top_Project\TopDoket\TopDoket.DataLayer\bin\Debug\netcoreapp3.1\TopDoket.DataLayer.runtimeconfig.json
+C:\Users\P\Desktop\N_Top_Project\5\Top_Project\TopDoket\TopDoket.DataLayer\bin\Debug\netcoreapp3.1\TopDoket.DataLayer.runtimeconfig.dev.json
+C:\Users\P\Desktop\N_Top_Project\5\Top_Project\TopDoket\TopDoket.DataLayer\bin\Debug\netcoreapp3.1\TopDoket.DataLayer.dll
+C:\Users\P\Desktop\N_Top_Project\5\Top_Project\TopDoket\TopDoket.DataLayer\bin\Debug\netcoreapp3.1\TopDoket.DataLayer.pdb
+C:\Users\P\Desktop\N_Top_Project\5\Top_Project\TopDoket\TopDoket.DataLayer\obj\Debug\netcoreapp3.1\TopDoket.DataLayer.AssemblyInfoInputs.cache
+C:\Users\P\Desktop\N_Top_Project\5\Top_Project\TopDoket\TopDoket.DataLayer\obj\Debug\netcoreapp3.1\TopDoket.DataLayer.AssemblyInfo.cs
+C:\Users\P\Desktop\N_Top_Project\5\Top_Project\TopDoket\TopDoket.DataLayer\obj\Debug\netcoreapp3.1\TopDoket.DataLayer.csproj.CoreCompileInputs.cache
+C:\Users\P\Desktop\N_Top_Project\5\Top_Project\TopDoket\TopDoket.DataLayer\obj\Debug\netcoreapp3.1\TopDoket.DataLayer.dll
+C:\Users\P\Desktop\N_Top_Project\5\Top_Project\TopDoket\TopDoket.DataLayer\obj\Debug\netcoreapp3.1\TopDoket.DataLayer.pdb
+C:\Users\P\Desktop\N_Top_Project\5\Top_Project\TopDoket\TopDoket.DataLayer\obj\Debug\netcoreapp3.1\TopDoket.DataLayer.genruntimeconfig.cache
+C:\Users\P\Desktop\N_Top_Project\5\Top_Project\TopDoket\TopDoket.DataLayer\obj\Debug\netcoreapp3.1\TopDoket.DataLayer.csprojAssemblyReference.cache
+E:\Teaching program\.net core پیشرفته\N_Top_Project\13\Top_Project\TopDoket\TopDoket.DataLayer\bin\Debug\netcoreapp3.1\TopDoket.DataLayer.deps.json
+E:\Teaching program\.net core پیشرفته\N_Top_Project\13\Top_Project\TopDoket\TopDoket.DataLayer\bin\Debug\netcoreapp3.1\TopDoket.DataLayer.runtimeconfig.json
+E:\Teaching program\.net core پیشرفته\N_Top_Project\13\Top_Project\TopDoket\TopDoket.DataLayer\bin\Debug\netcoreapp3.1\TopDoket.DataLayer.runtimeconfig.dev.json
+E:\Teaching program\.net core پیشرفته\N_Top_Project\13\Top_Project\TopDoket\TopDoket.DataLayer\bin\Debug\netcoreapp3.1\TopDoket.DataLayer.dll
+E:\Teaching program\.net core پیشرفته\N_Top_Project\13\Top_Project\TopDoket\TopDoket.DataLayer\bin\Debug\netcoreapp3.1\TopDoket.DataLayer.pdb
+E:\Teaching program\.net core پیشرفته\N_Top_Project\13\Top_Project\TopDoket\TopDoket.DataLayer\obj\Debug\netcoreapp3.1\TopDoket.DataLayer.csprojAssemblyReference.cache
+E:\Teaching program\.net core پیشرفته\N_Top_Project\13\Top_Project\TopDoket\TopDoket.DataLayer\obj\Debug\netcoreapp3.1\TopDoket.DataLayer.AssemblyInfoInputs.cache
+E:\Teaching program\.net core پیشرفته\N_Top_Project\13\Top_Project\TopDoket\TopDoket.DataLayer\obj\Debug\netcoreapp3.1\TopDoket.DataLayer.AssemblyInfo.cs
+E:\Teaching program\.net core پیشرفته\N_Top_Project\13\Top_Project\TopDoket\TopDoket.DataLayer\obj\Debug\netcoreapp3.1\TopDoket.DataLayer.csproj.CoreCompileInputs.cache
+E:\Teaching program\.net core پیشرفته\N_Top_Project\13\Top_Project\TopDoket\TopDoket.DataLayer\obj\Debug\netcoreapp3.1\TopDoket.DataLayer.dll
+E:\Teaching program\.net core پیشرفته\N_Top_Project\13\Top_Project\TopDoket\TopDoket.DataLayer\obj\Debug\netcoreapp3.1\TopDoket.DataLayer.pdb
+E:\Teaching program\.net core پیشرفته\N_Top_Project\13\Top_Project\TopDoket\TopDoket.DataLayer\obj\Debug\netcoreapp3.1\TopDoket.DataLayer.genruntimeconfig.cache
+C:\Users\P\Desktop\Top_Project\TopDoket\TopDoket.DataLayer\obj\Debug\netcoreapp3.1\TopDoket.DataLayer.csprojAssemblyReference.cache

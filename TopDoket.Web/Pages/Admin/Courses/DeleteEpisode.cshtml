@@ -1,0 +1,19 @@
+﻿@page "{id}"
+@model TopDoket.Web.Pages.Admin.Courses.DeleteEpisodeModel
+@{
+    ViewData["Title"] = "حذف بخش";
+}
+
+<div class="container alert alert-danger">
+    <div class="panel-body">
+        <form method="post">
+            <input type="hidden" asp-for="CourseEpisode.CourseId" />
+            <input type="hidden" asp-for="CourseEpisode.EpisodeTitle" />
+            <input type="hidden" asp-for="CourseEpisode.EpisodeId" />
+            <h2>آیا از حذف نقش "@Model.CourseEpisode.EpisodeTitle" مطمئن هستید </h2>
+            <p>
+                <input type="submit" value="حذف کن" class="btn btn-outline btn-danger" />
+            </p>
+        </form>
+    </div>
+</div>
