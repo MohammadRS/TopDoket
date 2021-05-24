@@ -13,7 +13,7 @@ namespace TopDoket.Core.Senders
         {
             MailMessage mail = new MailMessage();
             SmtpClient SmtpServer = new SmtpClient("smtp.gmail.com");
-            mail.From = new MailAddress("lompod.desember@gmail.com", "تاپ لرن");
+            mail.From = new MailAddress("reza@gmail.com", "Reza");
             mail.To.Add(to);
             mail.Subject = subject;
             mail.Body = body;
@@ -24,7 +24,7 @@ namespace TopDoket.Core.Senders
             // mail.Attachments.Add(attachment);
 
             SmtpServer.Port = 587;
-            SmtpServer.Credentials = new System.Net.NetworkCredential("lompod.desember@gmail.com", "8860M8860m");
+            SmtpServer.Credentials = new System.Net.NetworkCredential("Reza@gmail.com", "******");
             SmtpServer.EnableSsl = true;
 
             SmtpServer.Send(mail);
